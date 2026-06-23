@@ -47,6 +47,20 @@ git clone https://github.com/malminhas/python-data-analysis
 
 This creates a `python-data-analysis` folder inside `CODE` containing all the course files.
 
+**Don't have git?** Install it via [Homebrew](https://brew.sh). If you don't have Homebrew either, install it first:
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+Then install git:
+
+```bash
+brew install git
+```
+
+> **Note:** Homebrew is a general-purpose package manager for macOS and is worth having regardless. As an alternative to Anaconda, you can also use it to install Python directly (`brew install python`), then install the course libraries with `pip install -r requirements.txt`. Anaconda is simpler for beginners since it bundles everything in one go, but either approach works fine.
+
 ### Option B: Download as a ZIP
 
 1. Go to [https://github.com/malminhas/python-data-analysis](https://github.com/malminhas/python-data-analysis)
