@@ -35,11 +35,9 @@ You should see something like `conda 24.x.x`. If you see "command not found", tr
 If you have git installed, open Terminal and run:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/malminhas/python-data-analysis
+cd python-data-analysis
 ```
-
-Replace `<repository-url>` with the URL of the GitHub repository your instructor shared.
 
 ### Option B: Download as a ZIP
 

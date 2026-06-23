@@ -1,8 +1,8 @@
 # Introduction to Data Analysis with Python
 
-A short course in Python data analysis for students who already have some experience with quantitative methods — for example, through Stata — and want to build equivalent skills in Python.
+This course was put together for a Human Sciences student who already works with data in Stata and wants to get started with Python. It assumes no prior Python experience, but does assume familiarity with the basics of data analysis — variables, summary statistics, distributions, and simple regression — through prior use of Stata.
 
-The course runs across four one-hour sessions, each delivered as a Jupyter notebook. Every session uses a real-world dataset drawn from social science or public health research, and introduces Python concepts by mapping them directly onto things you already know from Stata.
+The approach is practical and hands-on: four one-hour sessions, each built around a Jupyter notebook that you run on your own Mac. Each session uses a real-world dataset from social science or public health, and introduces Python by drawing direct comparisons with what you already know from Stata. The goal is to reach the point where you can load, explore, visualise, and analyse a dataset independently in Python.
 
 ---
 
@@ -37,7 +37,7 @@ Read **[Prerequisites.md](Prerequisites.md)** first. It walks you through everyt
 **If you are comfortable with git**, clone the repository:
 
 ```bash
-git clone https://github.com/<username>/python-data-analysis.git
+git clone https://github.com/malminhas/python-data-analysis.git
 cd python-data-analysis
 jupyter lab
 ```
