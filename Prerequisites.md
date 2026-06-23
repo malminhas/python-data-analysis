@@ -30,22 +30,30 @@ You should see something like `conda 24.x.x`. If you see "command not found", tr
 
 ## Step 2: Download the course files
 
+First, create a folder called `CODE` on your Desktop — this will be your home for all the course files:
+
+```bash
+mkdir ~/Desktop/CODE
+```
+
 ### Option A: Clone with git (recommended)
 
 If you have git installed, open Terminal and run:
 
 ```bash
+cd ~/Desktop/CODE
 git clone https://github.com/malminhas/python-data-analysis
-cd python-data-analysis
 ```
+
+This creates a `python-data-analysis` folder inside `CODE` containing all the course files.
 
 ### Option B: Download as a ZIP
 
-1. Go to the GitHub repository page your instructor shared
+1. Go to [https://github.com/malminhas/python-data-analysis](https://github.com/malminhas/python-data-analysis)
 2. Click the green **Code** button
 3. Click **Download ZIP**
 4. Double-click the downloaded ZIP to extract it
-5. Move the extracted folder somewhere convenient (e.g. `Documents/PythonSessions`)
+5. Move the extracted folder into `~/Desktop/CODE` so the path is `Desktop/CODE/python-data-analysis`
 
 ---
 
@@ -65,17 +73,10 @@ Prerequisites.md
 
 ## Step 4: Launch JupyterLab
 
-In Terminal, navigate to the folder containing the notebooks and launch JupyterLab:
+In Terminal, navigate to the `python-data-analysis` folder inside your `CODE` folder and launch JupyterLab:
 
 ```bash
-cd path/to/your/folder
-jupyter lab
-```
-
-For example, if you put the folder in Documents:
-
-```bash
-cd ~/Documents/PythonSessions
+cd ~/Desktop/CODE/python-data-analysis
 jupyter lab
 ```
 
