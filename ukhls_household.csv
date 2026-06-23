@@ -1,0 +1,232 @@
+hidp,region,tenure,num_rooms,has_broadband
+10002,East of England,Rented social,3,0
+10003,South East,Mortgage,2,1
+10004,South East,Mortgage,2,1
+10005,North West,Rented private,5,0
+10006,South West,Mortgage,7,1
+10007,South West,Rented social,7,0
+10008,North East,Rented private,5,1
+10009,South East,Mortgage,6,1
+10010,North East,Mortgage,5,1
+10011,North East,Other,8,0
+10012,West Midlands,Rented private,6,1
+10013,South East,Other,4,1
+10017,South East,Owned outright,8,0
+10018,South West,Rented social,2,1
+10019,West Midlands,Rented private,8,1
+10020,South East,Owned outright,3,1
+10022,East Midlands,Mortgage,4,1
+10023,South East,Rented private,7,1
+10024,East Midlands,Owned outright,7,0
+10025,London,Mortgage,8,1
+10026,Yorkshire,Rented social,7,1
+10027,London,Mortgage,6,0
+10028,South East,Mortgage,4,1
+10029,South East,Mortgage,2,1
+10030,North West,Mortgage,2,1
+10031,London,Rented social,4,1
+10032,East of England,Rented private,2,1
+10033,West Midlands,Owned outright,5,1
+10034,East Midlands,Other,7,1
+10035,Yorkshire,Rented social,8,1
+10036,North West,Mortgage,5,1
+10037,East of England,Rented social,8,1
+10038,North West,Owned outright,8,1
+10040,South West,Other,8,1
+10041,North East,Rented private,5,1
+10042,East Midlands,Rented private,4,1
+10043,Yorkshire,Owned outright,8,0
+10044,North West,Rented social,3,1
+10045,North West,Owned outright,4,1
+10046,North West,Owned outright,2,1
+10047,East Midlands,Owned outright,7,0
+10048,London,Rented private,6,1
+10049,East Midlands,Owned outright,2,1
+10050,South East,Rented social,3,0
+10051,North East,Rented private,5,1
+10052,South West,Owned outright,5,0
+10053,South West,Owned outright,7,1
+10054,South West,Owned outright,3,1
+10055,West Midlands,Rented private,8,1
+10056,West Midlands,Rented social,5,1
+10057,North East,Owned outright,7,1
+10061,East of England,Rented social,3,1
+10063,South West,Owned outright,2,0
+10064,London,Rented social,2,1
+10065,London,Rented social,4,1
+10066,East of England,Rented private,8,1
+10067,North East,Rented private,2,1
+10068,East Midlands,Rented social,4,1
+10069,North East,Owned outright,2,1
+10070,London,Owned outright,8,1
+10071,London,Owned outright,6,1
+10072,North West,Mortgage,7,1
+10074,London,Rented private,6,1
+10075,London,Rented private,6,1
+10076,East of England,Rented social,7,1
+10077,North East,Owned outright,2,1
+10078,Yorkshire,Rented private,8,1
+10079,London,Owned outright,7,1
+10080,North West,Mortgage,7,1
+10081,North West,Rented private,4,1
+10082,North West,Other,7,1
+10083,North East,Rented private,4,0
+10084,South West,Owned outright,2,0
+10085,North East,Rented private,8,1
+10086,South West,Owned outright,3,0
+10087,North West,Rented social,2,1
+10088,West Midlands,Rented private,6,1
+10089,North West,Owned outright,3,1
+10090,West Midlands,Owned outright,8,1
+10092,West Midlands,Owned outright,5,1
+10093,West Midlands,Other,2,1
+10094,North West,Mortgage,8,1
+10095,Yorkshire,Rented private,5,1
+10096,South East,Rented private,3,1
+10098,North West,Mortgage,6,1
+10100,East Midlands,Owned outright,5,1
+10102,South West,Rented social,2,1
+10103,East Midlands,Mortgage,7,1
+10104,North East,Mortgage,4,0
+10105,North West,Rented private,6,0
+10107,North West,Rented private,8,1
+10109,East Midlands,Rented social,6,1
+10112,North West,Owned outright,6,1
+10113,East of England,Mortgage,3,1
+10114,Yorkshire,Mortgage,3,1
+10115,West Midlands,Mortgage,4,1
+10116,South West,Owned outright,7,1
+10117,South West,Owned outright,5,1
+10118,London,Mortgage,4,0
+10120,South East,Mortgage,7,1
+10121,East of England,Mortgage,7,1
+10122,East Midlands,Rented private,8,1
+10123,South East,Rented private,4,1
+10124,East of England,Mortgage,6,0
+10125,West Midlands,Mortgage,6,1
+10126,South West,Owned outright,5,1
+10127,East of England,Mortgage,4,1
+10128,East of England,Mortgage,2,1
+10129,East Midlands,Owned outright,3,1
+10130,East of England,Mortgage,5,1
+10131,Yorkshire,Mortgage,8,1
+10132,South West,Owned outright,8,1
+10133,East of England,Mortgage,3,1
+10134,East of England,Mortgage,6,1
+10136,South East,Rented private,2,1
+10137,Yorkshire,Rented private,6,1
+10138,South West,Rented private,4,1
+10139,South West,Mortgage,5,1
+10140,North West,Rented private,7,0
+10141,North East,Mortgage,4,1
+10142,Yorkshire,Mortgage,7,1
+10143,North East,Rented private,5,1
+10144,North West,Mortgage,8,1
+10145,East Midlands,Mortgage,6,1
+10146,Yorkshire,Rented private,4,1
+10148,South West,Rented social,7,1
+10149,East Midlands,Rented social,4,1
+10150,East Midlands,Mortgage,5,1
+10152,North East,Mortgage,2,1
+10153,North West,Rented private,2,1
+10154,East Midlands,Mortgage,6,1
+10156,West Midlands,Rented social,3,1
+10157,South East,Mortgage,8,1
+10159,North West,Owned outright,7,1
+10160,East Midlands,Owned outright,6,1
+10161,East Midlands,Rented social,7,1
+10163,Yorkshire,Owned outright,6,1
+10164,West Midlands,Mortgage,2,1
+10165,London,Mortgage,4,1
+10166,South West,Owned outright,5,1
+10167,South East,Mortgage,8,1
+10168,Yorkshire,Rented private,3,1
+10169,London,Owned outright,5,1
+10170,South East,Rented social,4,1
+10171,West Midlands,Rented social,2,1
+10172,Yorkshire,Mortgage,2,1
+10173,East Midlands,Owned outright,4,1
+10175,North West,Rented private,2,1
+10176,North East,Owned outright,2,1
+10177,South East,Mortgage,4,0
+10178,North East,Other,3,1
+10179,West Midlands,Other,5,1
+10181,West Midlands,Rented private,2,1
+10182,London,Mortgage,4,1
+10183,West Midlands,Rented private,5,1
+10184,Yorkshire,Rented private,8,1
+10185,West Midlands,Mortgage,6,1
+10186,London,Rented private,8,1
+10187,East Midlands,Owned outright,4,1
+10188,North East,Owned outright,5,1
+10189,Yorkshire,Mortgage,4,1
+10190,South East,Owned outright,8,1
+10192,North East,Owned outright,8,1
+10193,North East,Rented social,8,1
+10195,South East,Other,7,1
+10196,North West,Mortgage,5,1
+10197,East of England,Rented social,5,1
+10198,West Midlands,Other,8,1
+10201,East Midlands,Owned outright,3,1
+10202,North West,Mortgage,4,1
+10203,North East,Mortgage,8,1
+10204,North West,Owned outright,4,1
+10205,North East,Rented private,3,1
+10207,North East,Mortgage,5,1
+10209,London,Mortgage,4,1
+10210,South West,Owned outright,8,1
+10211,Yorkshire,Owned outright,8,1
+10213,West Midlands,Rented social,4,1
+10214,London,Owned outright,5,1
+10215,London,Owned outright,8,1
+10216,East Midlands,Mortgage,7,0
+10217,West Midlands,Mortgage,3,1
+10218,South East,Mortgage,6,1
+10219,South East,Mortgage,6,1
+10220,South East,Owned outright,6,1
+10221,West Midlands,Owned outright,2,1
+10223,London,Rented social,4,1
+10224,West Midlands,Rented private,7,1
+10226,East Midlands,Rented private,3,1
+10227,East Midlands,Rented private,4,1
+10228,Yorkshire,Rented private,4,1
+10229,East Midlands,Owned outright,3,1
+10231,Yorkshire,Mortgage,3,1
+10232,Yorkshire,Mortgage,4,1
+10233,North East,Mortgage,8,0
+10234,North West,Rented social,2,1
+10236,East Midlands,Mortgage,3,1
+10237,East Midlands,Rented private,2,1
+10238,South West,Rented social,5,1
+10239,West Midlands,Mortgage,3,1
+10240,South East,Rented social,7,1
+10241,North East,Mortgage,6,1
+10243,North West,Rented social,7,1
+10245,South East,Mortgage,6,1
+10247,North West,Mortgage,5,1
+10249,South East,Mortgage,8,1
+10250,Yorkshire,Owned outright,5,1
+10251,London,Mortgage,8,1
+10252,East Midlands,Rented social,8,1
+10253,West Midlands,Rented private,6,1
+10254,Yorkshire,Owned outright,6,1
+10255,East of England,Mortgage,3,1
+10257,North East,Owned outright,7,1
+10259,Yorkshire,Owned outright,6,1
+10260,South East,Rented social,8,1
+10262,Yorkshire,Mortgage,3,1
+10263,Yorkshire,Mortgage,7,1
+10264,East of England,Mortgage,5,1
+10266,Yorkshire,Owned outright,3,1
+10267,North East,Mortgage,3,1
+10268,North West,Rented private,5,1
+10269,Yorkshire,Rented private,4,1
+10270,West Midlands,Other,2,1
+10271,South West,Rented private,4,1
+10272,North West,Mortgage,6,1
+10273,East of England,Rented private,4,1
+10274,East Midlands,Rented social,8,1
+10276,South West,Rented private,7,1
+10278,South West,Other,5,1
+10279,South East,Rented private,8,1
+10280,North East,Rented social,5,1

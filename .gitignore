@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Anaconda / virtual environments
+.env
+.venv
+env/
+venv/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor metadata
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Generated chart outputs (reproduced by running car_sales_craft.py)
+world_ev_trend.png
+world_ev_share.png

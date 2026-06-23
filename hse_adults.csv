@@ -1,0 +1,601 @@
+age,sex,bmi,physical_activity_days,self_rated_health,smoker,alcohol_units_weekly,income_quintile,education,region,systolic_bp
+85,Male,29.1,2,2,Never,7.3,3,Degree,North West,136
+83,Female,25.6,0,3,Current,0.8,2,GCSE,North East,169
+19,Female,26.5,1,5,Never,13.2,4,Degree,North West,126
+76,Female,30.8,1,2,Never,13.0,2,Degree,South East,144
+31,Female,21.3,6,3,Current,7.1,5,GCSE,East of England,117
+78,Male,28.0,2,4,Never,1.9,4,Degree,East Midlands,165
+76,Female,30.5,1,3,Never,1.7,3,Degree,South East,153
+36,Female,18.1,2,4,Never,22.3,4,Degree,North East,134
+22,Male,30.4,4,3,Ex-smoker,1.4,3,GCSE,West Midlands,120
+48,Female,18.6,6,3,Current,7.3,5,Degree,North West,128
+40,Male,26.4,7,2,Never,22.1,2,Degree,South West,130
+58,Male,21.2,0,1,Ex-smoker,2.7,5,Degree,Yorkshire,135
+23,Male,34.2,6,3,Ex-smoker,1.4,1,GCSE,London,125
+21,Female,21.2,3,4,Ex-smoker,2.7,4,Degree,London,111
+49,Male,18.7,6,1,Ex-smoker,,5,Degree,West Midlands,131
+74,Male,27.7,0,5,Current,16.8,3,Below GCSE,London,144
+40,Female,,5,2,Never,,1,Below GCSE,South West,130
+41,Male,19.5,7,3,Never,6.1,5,Degree,North West,126
+29,Female,29.6,0,4,Ex-smoker,20.4,5,Degree,East Midlands,127
+38,Female,17.0,6,4,Never,1.9,3,Degree,East of England,121
+39,Male,21.8,0,3,Never,,3,GCSE,South West,130
+36,Male,24.1,7,2,Never,,5,Degree,Yorkshire,117
+43,Female,31.0,5,2,Never,24.4,2,Below GCSE,North East,134
+38,Male,33.5,7,2,Current,20.4,4,Below GCSE,Yorkshire,142
+67,Male,32.5,7,4,Never,6.6,3,A-level,East of England,136
+42,Female,26.2,2,2,Ex-smoker,3.5,2,Degree,East of England,124
+73,Female,15.0,3,3,Ex-smoker,9.6,5,Below GCSE,London,132
+62,Female,29.0,5,2,Never,,2,GCSE,South East,129
+64,Female,34.4,1,3,Never,39.5,5,GCSE,South West,160
+60,Female,33.2,2,2,Never,2.5,4,Degree,East of England,144
+85,Female,29.3,0,3,Never,6.4,3,GCSE,North East,152
+36,Female,21.1,7,3,Never,0.1,3,GCSE,North West,107
+89,Female,24.4,1,5,Ex-smoker,4.5,3,No qualification,South East,156
+33,Female,36.7,3,4,Never,,5,A-level,South West,125
+28,Female,19.9,3,3,Never,3.3,4,A-level,London,112
+78,Male,21.3,3,2,Never,5.6,4,A-level,London,152
+83,Female,31.7,6,5,Never,1.0,3,GCSE,East of England,147
+24,Female,24.8,7,4,Never,6.8,2,Below GCSE,North East,90
+61,Male,21.1,4,4,Current,15.8,1,A-level,South East,140
+55,Male,34.6,6,3,Never,2.4,4,Degree,Yorkshire,140
+34,Female,,0,2,Never,20.2,3,Degree,East of England,126
+56,Male,25.1,7,4,Ex-smoker,3.2,3,GCSE,East Midlands,134
+68,Male,21.3,0,2,Ex-smoker,3.5,3,Below GCSE,North West,127
+59,Male,37.2,0,2,Ex-smoker,5.8,3,Degree,North West,123
+55,Male,,0,2,Never,4.9,4,Some HE,North West,133
+82,Female,34.0,1,3,Ex-smoker,6.5,4,No qualification,East of England,155
+34,Male,31.5,6,2,Never,15.5,5,A-level,London,96
+63,Male,24.4,2,3,Ex-smoker,14.2,1,Degree,North East,133
+41,Female,24.4,6,3,Never,2.2,4,Some HE,North East,103
+89,Male,34.2,3,3,Ex-smoker,4.3,1,A-level,North West,154
+36,Male,34.3,0,1,Ex-smoker,16.4,5,Degree,East Midlands,160
+81,Female,17.6,3,5,Ex-smoker,0.5,4,GCSE,South West,136
+64,Female,29.7,1,2,Never,1.5,3,A-level,South East,141
+33,Female,26.4,2,3,Ex-smoker,0.6,5,GCSE,East of England,134
+73,Female,21.8,4,3,Ex-smoker,3.4,3,GCSE,East of England,136
+35,Female,28.3,6,2,Never,3.6,2,Degree,South West,120
+37,Male,20.3,4,3,Never,0.0,3,Degree,North East,135
+43,Female,24.7,1,1,Never,8.9,1,Degree,West Midlands,135
+67,Female,23.0,5,4,Never,18.8,5,Degree,South West,136
+46,Male,24.5,5,1,Ex-smoker,4.7,4,GCSE,West Midlands,129
+59,Female,26.6,1,5,Never,1.3,4,Degree,Yorkshire,135
+58,Male,21.9,6,3,Ex-smoker,17.9,5,GCSE,East Midlands,142
+32,Female,34.9,6,1,Ex-smoker,14.8,5,Degree,North East,121
+34,Female,29.5,4,3,Ex-smoker,6.2,3,Degree,North East,138
+40,Female,36.0,2,2,Ex-smoker,0.4,1,Degree,East of England,124
+34,Male,26.2,2,5,Ex-smoker,5.8,3,A-level,East Midlands,146
+85,Female,24.3,3,4,Never,4.5,5,GCSE,South East,149
+45,Female,35.8,1,3,Never,9.1,5,GCSE,North West,128
+47,Male,24.1,2,3,Current,19.4,4,Degree,North East,146
+67,Male,26.1,1,5,Current,8.4,2,GCSE,West Midlands,145
+75,Female,30.6,1,3,Never,16.0,2,GCSE,South East,147
+68,Male,20.8,5,3,Current,,5,Some HE,East Midlands,138
+58,Female,30.6,1,2,Current,9.7,1,Degree,North West,145
+89,Female,,3,2,Never,7.0,4,Degree,London,157
+83,Male,33.3,3,3,Ex-smoker,0.0,3,Degree,West Midlands,159
+32,Female,31.5,0,3,Ex-smoker,5.2,2,Below GCSE,West Midlands,120
+29,Male,33.5,6,4,Never,,4,Some HE,East Midlands,117
+46,Female,26.4,7,3,Never,3.3,5,A-level,West Midlands,126
+78,Female,,5,3,Never,2.3,4,GCSE,North East,143
+88,Male,37.5,5,3,Ex-smoker,14.1,3,Some HE,South East,148
+69,Female,19.4,1,4,Never,,3,GCSE,West Midlands,154
+68,Female,19.9,6,2,Ex-smoker,7.1,5,Degree,North West,138
+35,Female,29.8,6,4,Ex-smoker,0.2,4,A-level,North West,117
+61,Male,35.1,3,2,Ex-smoker,18.4,3,Degree,East Midlands,139
+31,Female,27.9,5,3,Never,35.1,4,Degree,North East,119
+57,Female,32.0,7,4,Never,3.9,2,Degree,South West,128
+32,Male,17.0,4,4,Never,27.5,1,GCSE,East of England,135
+23,Female,24.5,1,2,Never,0.1,5,GCSE,North West,132
+88,Male,17.6,2,3,Never,11.9,4,GCSE,East of England,148
+83,Female,30.9,1,2,Never,10.6,2,Degree,East of England,157
+68,Male,19.3,2,1,Never,19.9,2,No qualification,West Midlands,149
+63,Female,20.6,7,4,Ex-smoker,0.7,5,Degree,West Midlands,128
+35,Male,29.6,1,4,Never,0.3,4,Below GCSE,North East,139
+59,Male,32.3,7,1,Never,17.3,4,GCSE,West Midlands,143
+72,Female,26.2,2,5,Current,2.7,1,A-level,South East,152
+57,Female,,3,3,Never,,5,A-level,London,127
+38,Female,29.7,4,5,Current,19.7,5,GCSE,North East,126
+46,Female,25.9,1,4,Ex-smoker,2.3,3,GCSE,East of England,130
+79,Male,21.5,1,5,Never,10.6,2,Degree,South East,141
+36,Female,29.8,2,4,Current,1.4,4,GCSE,South West,121
+88,Male,30.1,0,5,Current,1.7,5,Degree,London,171
+73,Male,31.5,6,3,Ex-smoker,29.3,5,A-level,South East,148
+82,Female,28.6,4,2,Never,,5,GCSE,North West,131
+55,Female,21.2,6,2,Never,20.1,4,Below GCSE,West Midlands,123
+34,Male,30.5,6,4,Never,3.1,2,A-level,West Midlands,126
+20,Male,27.0,2,2,Ex-smoker,6.0,3,Degree,London,128
+57,Female,24.6,6,5,Never,9.0,5,A-level,Yorkshire,118
+47,Male,25.5,0,2,Never,7.5,2,Degree,North East,126
+26,Male,23.5,3,4,Never,13.6,2,A-level,North East,130
+85,Male,31.4,5,3,Never,3.9,4,A-level,East of England,135
+88,Male,19.9,3,4,Never,20.1,3,GCSE,West Midlands,145
+45,Male,22.0,5,5,Never,,5,Degree,South West,125
+66,Female,,6,3,Current,4.0,1,Degree,North West,138
+48,Male,35.1,3,3,Never,16.2,3,A-level,North East,143
+54,Female,32.3,2,2,Never,,2,Degree,South West,154
+63,Female,18.8,4,4,Never,7.7,4,Degree,East Midlands,114
+48,Female,33.8,6,4,Never,7.1,4,Some HE,South West,139
+76,Female,33.7,7,2,Ex-smoker,2.4,3,A-level,West Midlands,115
+31,Female,21.1,6,1,Never,0.9,3,Degree,South West,130
+66,Female,15.0,1,3,Current,9.7,1,A-level,Yorkshire,119
+89,Female,,1,2,Current,,4,Below GCSE,North East,181
+80,Female,32.6,4,4,Current,11.1,5,A-level,North West,148
+21,Female,35.0,3,2,Current,0.7,4,Degree,South East,144
+26,Female,22.6,4,5,Never,5.9,2,Degree,South East,129
+63,Male,35.8,7,5,Ex-smoker,1.8,4,Degree,North West,137
+85,Female,15.9,4,5,Never,5.2,2,A-level,London,134
+79,Female,25.2,2,3,Ex-smoker,2.7,1,GCSE,East of England,135
+83,Male,24.9,6,2,Never,1.7,2,Degree,North East,152
+28,Female,32.8,3,4,Never,0.4,1,Degree,East Midlands,122
+55,Male,33.5,4,3,Never,2.2,2,Some HE,London,133
+70,Male,31.8,1,5,Ex-smoker,16.0,5,Some HE,North East,156
+63,Female,20.2,4,2,Ex-smoker,1.6,2,No qualification,Yorkshire,122
+74,Male,31.3,3,1,Never,7.0,4,Degree,South West,146
+33,Male,29.5,0,5,Never,21.1,5,Degree,West Midlands,137
+51,Male,18.6,1,4,Never,17.2,4,Some HE,West Midlands,129
+50,Female,16.7,5,2,Ex-smoker,2.6,3,Degree,East Midlands,118
+86,Male,32.2,1,4,Never,2.8,4,Degree,North East,173
+32,Female,26.1,1,1,Never,0.5,1,A-level,North West,125
+41,Female,20.6,0,3,Ex-smoker,12.4,3,Some HE,South West,125
+19,Female,26.0,0,2,Ex-smoker,16.7,3,Degree,North East,121
+29,Female,28.8,3,2,Current,11.5,5,GCSE,North East,135
+89,Female,26.6,3,2,Ex-smoker,4.2,5,A-level,London,137
+79,Male,19.2,4,2,Current,,5,Degree,South West,152
+36,Female,36.4,4,3,Never,22.9,4,Below GCSE,West Midlands,133
+69,Female,32.0,4,2,Never,2.7,3,Degree,North West,123
+61,Male,25.3,7,3,Current,0.0,5,No qualification,Yorkshire,158
+84,Male,25.5,1,3,Never,,5,Below GCSE,West Midlands,167
+39,Female,28.8,5,3,Ex-smoker,7.7,3,A-level,South West,117
+90,Male,21.4,0,3,Never,50.6,5,Degree,London,143
+45,Female,28.6,6,2,Never,12.8,5,Below GCSE,North East,128
+70,Male,20.3,2,1,Never,9.4,3,Some HE,East Midlands,128
+47,Female,,2,4,Ex-smoker,13.2,1,Degree,East Midlands,146
+67,Male,,1,4,Ex-smoker,4.5,2,A-level,North East,142
+42,Female,21.4,4,5,Never,4.1,4,A-level,South East,140
+79,Male,35.2,3,5,Never,7.1,1,Below GCSE,South West,145
+64,Male,,7,3,Never,14.9,3,GCSE,North West,135
+39,Male,28.0,1,4,Never,2.5,4,Below GCSE,South West,149
+88,Female,16.9,3,3,Never,1.3,5,GCSE,North East,138
+69,Female,24.0,7,4,Current,,5,GCSE,North West,140
+49,Female,,6,5,Never,,4,A-level,London,138
+27,Male,28.0,6,4,Never,0.9,3,No qualification,East Midlands,118
+89,Female,16.2,4,2,Never,7.4,1,No qualification,Yorkshire,127
+73,Male,28.0,6,2,Never,15.5,4,Below GCSE,East Midlands,127
+66,Male,28.8,1,2,Never,4.2,2,GCSE,South East,153
+78,Female,33.4,6,2,Ex-smoker,14.1,4,A-level,London,146
+62,Female,23.7,4,4,Ex-smoker,0.0,5,Degree,London,144
+34,Female,15.8,2,3,Current,0.7,4,Below GCSE,South East,123
+35,Male,22.0,1,2,Never,4.1,4,Degree,South West,116
+23,Male,21.5,4,3,Ex-smoker,3.7,4,Degree,South West,98
+22,Female,30.7,0,2,Current,9.8,5,A-level,North West,162
+71,Male,15.0,5,3,Current,15.1,3,A-level,East Midlands,146
+80,Male,24.8,1,2,Current,9.5,3,A-level,South East,158
+29,Female,34.1,3,3,Never,3.5,2,Degree,London,130
+59,Female,27.0,1,4,Current,1.1,4,Degree,South East,130
+27,Male,31.5,3,4,Current,2.3,2,Degree,South West,128
+48,Male,,2,4,Ex-smoker,16.6,3,Some HE,Yorkshire,155
+75,Female,,1,2,Ex-smoker,2.4,4,Degree,London,151
+77,Male,34.2,7,3,Current,25.2,1,GCSE,East of England,144
+87,Male,27.5,6,2,Never,7.4,4,Degree,East Midlands,135
+40,Male,27.5,3,3,Ex-smoker,12.7,2,Some HE,South East,128
+87,Female,21.4,0,3,Ex-smoker,3.1,2,Some HE,London,144
+75,Female,27.5,6,3,Ex-smoker,1.4,1,A-level,South West,158
+42,Male,21.3,5,5,Ex-smoker,0.2,2,Below GCSE,South East,125
+41,Male,32.9,4,2,Never,8.8,5,Degree,North West,123
+25,Female,,4,4,Never,0.6,5,Some HE,North East,120
+85,Female,29.4,0,2,Never,1.1,4,GCSE,West Midlands,154
+32,Female,23.8,3,3,Ex-smoker,15.8,4,Degree,Yorkshire,110
+37,Male,15.0,1,4,Ex-smoker,,4,Below GCSE,Yorkshire,131
+48,Female,18.6,5,4,Current,2.6,5,No qualification,North West,141
+28,Female,34.8,7,4,Ex-smoker,3.2,3,GCSE,London,123
+76,Female,21.9,4,4,Ex-smoker,3.7,1,No qualification,North East,130
+68,Male,25.1,4,2,Never,,4,A-level,East Midlands,136
+29,Female,30.3,5,5,Ex-smoker,5.5,5,A-level,East Midlands,106
+29,Male,34.4,7,5,Current,14.8,2,Degree,North West,131
+19,Male,,0,3,Ex-smoker,32.6,3,Degree,East Midlands,132
+87,Male,25.0,2,1,Current,7.4,3,Degree,South West,149
+49,Female,27.4,2,2,Current,11.2,3,A-level,London,158
+65,Male,23.9,5,4,Never,1.9,4,A-level,South East,146
+28,Female,24.1,3,5,Ex-smoker,0.8,3,Degree,London,103
+34,Female,29.1,6,4,Never,5.3,5,GCSE,East of England,104
+57,Female,27.9,3,2,Never,24.1,5,Degree,North West,125
+33,Male,37.7,7,1,Never,14.5,1,Some HE,East of England,146
+62,Female,29.2,6,3,Never,2.7,5,Degree,West Midlands,142
+85,Male,32.8,0,2,Never,2.3,4,GCSE,South East,175
+40,Female,21.6,7,1,Ex-smoker,5.2,3,A-level,West Midlands,119
+62,Male,29.6,7,1,Never,,3,GCSE,North East,135
+84,Male,23.4,0,2,Never,,5,Degree,South West,140
+83,Female,29.0,3,2,Never,5.0,3,A-level,East Midlands,150
+18,Male,,7,4,Never,6.7,2,No qualification,North East,116
+26,Male,27.2,6,2,Current,18.2,2,Degree,West Midlands,126
+89,Female,39.0,3,3,Never,3.5,2,A-level,East of England,171
+85,Male,34.1,4,3,Never,2.4,4,Degree,South East,152
+41,Male,32.9,0,5,Current,13.2,2,Degree,North East,160
+55,Male,30.8,4,4,Current,8.7,4,A-level,West Midlands,130
+59,Male,35.8,5,3,Ex-smoker,1.0,3,Degree,London,169
+66,Female,19.8,2,4,Ex-smoker,3.2,5,A-level,East Midlands,132
+72,Male,33.9,2,3,Never,8.8,3,Below GCSE,North East,158
+45,Male,22.0,6,3,Ex-smoker,14.8,5,Degree,North East,136
+82,Female,24.2,3,3,Never,26.0,5,Degree,South East,138
+22,Male,29.8,2,3,Never,6.3,2,Below GCSE,East of England,137
+20,Female,33.2,2,3,Never,2.6,4,A-level,North East,134
+87,Female,21.2,3,2,Ex-smoker,2.7,2,Below GCSE,North West,136
+30,Male,24.4,2,2,Never,6.3,5,Some HE,West Midlands,122
+90,Male,27.5,4,2,Never,8.7,4,GCSE,South West,152
+38,Male,26.1,6,3,Never,2.1,2,Below GCSE,Yorkshire,126
+44,Male,,5,3,Ex-smoker,7.1,2,Degree,West Midlands,145
+20,Female,44.2,1,3,Never,20.8,3,GCSE,East Midlands,140
+86,Female,29.1,3,1,Never,2.2,5,GCSE,North East,147
+44,Male,23.3,4,2,Never,6.3,5,GCSE,East of England,137
+30,Male,,5,2,Ex-smoker,4.4,1,Degree,West Midlands,105
+53,Male,25.4,6,3,Never,10.2,2,A-level,London,126
+29,Female,22.3,3,2,Current,5.2,3,Degree,Yorkshire,129
+75,Female,29.3,2,1,Never,7.3,4,No qualification,East Midlands,156
+23,Male,29.3,5,1,Never,1.7,1,Degree,North West,126
+54,Female,24.7,1,3,Never,,3,Degree,South West,150
+46,Male,36.9,5,2,Never,1.1,5,Below GCSE,North East,147
+20,Female,23.3,7,3,Never,2.8,3,Some HE,West Midlands,107
+21,Female,26.4,5,3,Never,1.7,4,A-level,South East,115
+55,Female,30.2,3,5,Current,26.9,3,Degree,South East,146
+46,Male,31.5,6,3,Never,1.6,3,GCSE,South East,129
+27,Male,33.4,4,1,Never,2.4,4,Degree,South West,145
+28,Female,29.1,4,2,Never,1.1,2,A-level,East Midlands,112
+76,Male,32.3,6,4,Never,3.9,2,A-level,North West,149
+71,Male,23.7,1,2,Never,1.8,5,Some HE,North East,153
+62,Female,31.6,6,5,Never,,5,Degree,Yorkshire,132
+78,Female,31.5,5,3,Never,1.2,4,Degree,East Midlands,137
+23,Female,34.6,4,1,Never,8.6,1,GCSE,West Midlands,123
+68,Female,,0,2,Current,,1,Degree,South West,158
+72,Female,22.5,6,5,Ex-smoker,9.3,2,Degree,South West,128
+32,Male,31.1,1,5,Current,6.3,5,Some HE,East Midlands,130
+57,Female,15.0,7,4,Never,18.9,5,A-level,North West,133
+73,Female,,6,2,Current,6.4,3,GCSE,London,146
+62,Female,32.3,2,4,Never,5.7,5,A-level,London,151
+36,Male,24.1,3,2,Never,8.2,1,Below GCSE,South East,137
+66,Male,24.8,0,2,Current,3.2,4,GCSE,South East,174
+73,Female,21.6,3,3,Never,10.8,2,Below GCSE,South East,149
+18,Male,24.4,0,5,Never,13.2,2,GCSE,South East,120
+59,Male,24.5,7,3,Current,15.4,5,Degree,London,144
+54,Female,23.6,5,3,Ex-smoker,8.1,5,No qualification,East of England,123
+44,Female,23.3,1,2,Never,6.8,1,GCSE,Yorkshire,126
+21,Male,25.6,6,2,Never,52.5,2,A-level,South East,106
+24,Male,25.6,0,1,Never,10.9,4,Degree,South West,127
+72,Male,36.4,4,4,Current,27.0,1,Degree,North East,161
+78,Female,25.0,0,1,Never,12.4,4,GCSE,South East,146
+48,Female,28.7,0,3,Never,20.7,4,A-level,North East,125
+86,Male,24.1,1,2,Never,7.3,2,GCSE,East Midlands,137
+85,Male,24.1,2,3,Current,3.2,2,Some HE,Yorkshire,178
+66,Male,18.5,5,2,Ex-smoker,0.2,2,A-level,South West,138
+60,Male,19.1,7,2,Never,5.8,5,Degree,South West,122
+88,Male,21.0,6,3,Current,0.6,3,Degree,East of England,154
+62,Female,27.9,5,3,Never,16.4,4,Degree,South East,156
+86,Male,32.4,4,5,Current,4.4,2,GCSE,South West,165
+89,Male,18.1,2,2,Never,13.0,4,A-level,North East,121
+32,Female,24.3,2,3,Never,4.0,1,No qualification,London,151
+66,Male,20.2,7,5,Never,11.4,1,GCSE,West Midlands,115
+71,Male,25.7,4,2,Current,18.0,4,GCSE,Yorkshire,147
+77,Male,32.4,4,4,Current,12.9,4,A-level,South East,144
+43,Male,24.8,0,5,Ex-smoker,2.7,2,GCSE,London,130
+80,Male,26.8,3,4,Never,11.7,3,No qualification,East Midlands,151
+53,Female,34.3,5,3,Never,7.8,5,GCSE,South East,114
+46,Male,29.3,3,4,Never,3.0,1,Degree,North East,136
+29,Female,23.2,4,3,Never,3.3,2,GCSE,South East,131
+41,Female,,6,3,Never,2.1,3,Degree,South East,115
+89,Male,22.9,0,5,Ex-smoker,10.5,2,Degree,South West,140
+70,Male,29.1,7,2,Ex-smoker,14.1,4,GCSE,South West,139
+71,Male,29.6,6,4,Current,8.1,4,Below GCSE,South East,145
+83,Male,,3,3,Never,24.4,3,Degree,West Midlands,144
+37,Female,27.9,6,2,Never,2.0,4,Degree,East of England,111
+66,Male,26.4,0,3,Never,6.8,3,Below GCSE,East Midlands,152
+45,Female,29.7,2,4,Never,0.2,4,Degree,South West,139
+79,Female,31.2,0,3,Ex-smoker,11.9,1,Degree,London,140
+48,Female,29.4,5,4,Ex-smoker,6.7,2,GCSE,London,120
+80,Female,25.5,6,2,Never,17.3,4,Below GCSE,London,140
+72,Female,31.7,4,5,Never,7.2,2,A-level,North West,132
+74,Female,22.6,5,3,Current,10.4,1,A-level,South West,143
+85,Female,20.4,1,4,Never,14.2,3,Some HE,South West,159
+75,Male,15.0,7,2,Never,4.1,4,Degree,West Midlands,133
+41,Male,26.6,1,3,Ex-smoker,,1,GCSE,London,124
+56,Male,22.9,4,5,Ex-smoker,12.8,4,Below GCSE,West Midlands,139
+52,Male,29.0,5,1,Never,3.5,4,Some HE,East Midlands,134
+22,Female,17.1,6,2,Current,4.4,4,Degree,North West,115
+61,Male,23.8,7,4,Current,,2,Degree,South East,144
+49,Female,29.4,4,4,Never,4.6,5,Degree,London,138
+46,Female,21.9,4,4,Never,1.4,2,Degree,Yorkshire,126
+26,Male,,3,4,Ex-smoker,,5,Degree,East of England,126
+54,Female,24.2,4,5,Ex-smoker,0.8,4,GCSE,London,151
+60,Male,26.8,5,3,Never,2.6,1,Degree,West Midlands,150
+25,Female,30.0,5,3,Never,6.1,5,GCSE,East Midlands,129
+64,Female,31.8,4,4,Ex-smoker,3.7,3,A-level,North East,140
+30,Male,,3,3,Never,8.8,3,Below GCSE,North East,119
+28,Female,22.9,1,1,Never,7.6,3,No qualification,East Midlands,135
+47,Male,24.7,0,2,Never,6.3,4,Some HE,South East,140
+46,Female,30.2,3,3,Never,0.3,4,Degree,Yorkshire,126
+84,Female,21.9,3,4,Current,19.6,5,GCSE,South East,146
+22,Male,26.1,4,3,Ex-smoker,3.8,2,Degree,North West,114
+43,Female,25.1,7,4,Never,8.0,4,Degree,West Midlands,132
+71,Female,26.5,5,4,Current,12.4,4,Degree,East of England,150
+36,Female,22.0,6,2,Never,2.4,4,Below GCSE,North East,120
+89,Female,17.7,4,3,Never,1.4,3,Degree,East Midlands,140
+72,Female,29.6,7,3,Never,0.2,3,A-level,East of England,129
+87,Male,31.8,7,2,Ex-smoker,16.3,4,A-level,South East,127
+87,Female,18.0,1,3,Ex-smoker,1.9,2,GCSE,West Midlands,130
+25,Female,28.8,5,3,Ex-smoker,33.8,2,Degree,South West,112
+51,Male,,4,4,Never,3.0,3,Below GCSE,South East,127
+72,Male,,7,3,Never,11.1,2,GCSE,South East,142
+18,Male,24.9,4,1,Never,0.3,1,A-level,West Midlands,129
+50,Male,22.3,0,3,Current,10.3,1,Some HE,North East,143
+68,Male,27.4,1,4,Never,,4,GCSE,South West,161
+75,Male,28.2,1,3,Ex-smoker,0.5,5,GCSE,South East,143
+48,Female,27.5,1,2,Ex-smoker,0.8,3,Some HE,West Midlands,133
+81,Male,26.1,0,5,Never,9.9,1,Some HE,South East,153
+67,Male,21.6,6,2,Never,0.9,5,Degree,London,147
+21,Female,29.1,3,2,Never,3.3,2,Degree,West Midlands,122
+38,Male,29.4,5,3,Ex-smoker,12.5,5,Degree,East Midlands,132
+86,Male,28.0,7,4,Current,4.6,4,Degree,London,135
+18,Female,27.6,5,4,Never,0.3,2,Degree,South West,107
+25,Female,35.4,3,1,Current,1.8,3,Below GCSE,South East,144
+43,Female,23.9,2,4,Never,2.4,3,GCSE,Yorkshire,108
+90,Male,33.4,6,4,Never,5.3,4,Below GCSE,West Midlands,165
+69,Male,23.3,4,4,Current,26.7,1,GCSE,Yorkshire,152
+28,Female,,6,5,Current,,5,GCSE,London,117
+46,Female,33.2,0,4,Never,6.9,4,Degree,North West,130
+86,Female,25.5,1,2,Ex-smoker,5.0,5,GCSE,South East,167
+33,Female,35.3,1,2,Current,1.4,5,Degree,North East,153
+60,Male,29.3,5,5,Ex-smoker,4.8,2,A-level,North West,138
+51,Male,22.6,4,3,Ex-smoker,57.5,3,No qualification,East Midlands,134
+73,Female,25.1,2,3,Never,7.3,5,Below GCSE,North West,135
+72,Female,32.7,2,5,Never,13.6,3,Degree,Yorkshire,147
+78,Male,31.6,4,4,Ex-smoker,6.1,1,GCSE,Yorkshire,142
+26,Female,21.7,7,4,Never,30.4,2,Degree,London,112
+51,Male,26.3,7,4,Never,1.6,2,Degree,London,149
+68,Female,28.0,3,1,Never,3.8,5,Degree,North East,139
+48,Male,24.5,5,4,Never,5.7,3,Degree,North West,121
+66,Female,38.8,0,5,Never,2.2,4,GCSE,West Midlands,136
+64,Male,28.2,7,1,Never,4.0,5,Some HE,South West,138
+45,Female,26.7,0,2,Never,14.2,2,Degree,East of England,126
+25,Female,33.0,2,4,Never,12.0,4,No qualification,East of England,129
+88,Male,25.2,5,3,Current,5.4,1,A-level,East of England,138
+78,Female,32.0,7,1,Ex-smoker,,1,Some HE,West Midlands,147
+83,Female,18.7,1,2,Never,0.9,2,A-level,Yorkshire,132
+39,Female,24.7,5,2,Never,9.0,2,A-level,East of England,123
+41,Male,32.2,1,2,Never,1.4,3,A-level,North West,136
+41,Female,,0,4,Ex-smoker,14.4,3,GCSE,London,150
+20,Female,23.1,3,3,Ex-smoker,11.4,2,Below GCSE,North West,119
+30,Female,22.6,4,4,Ex-smoker,16.6,1,Some HE,Yorkshire,139
+40,Female,29.8,2,1,Ex-smoker,,4,A-level,East Midlands,136
+90,Female,23.9,7,3,Never,3.3,1,Degree,East of England,154
+32,Male,25.7,4,2,Never,,5,Below GCSE,East of England,125
+55,Male,31.4,3,4,Never,4.2,5,Some HE,East of England,145
+57,Male,24.3,3,5,Never,24.0,4,Degree,North East,150
+44,Male,17.2,3,3,Never,6.2,4,No qualification,London,137
+85,Male,,0,5,Ex-smoker,0.6,4,A-level,West Midlands,161
+24,Male,27.0,4,1,Never,5.1,4,Degree,North East,122
+81,Female,17.7,6,2,Ex-smoker,1.1,5,Degree,East Midlands,132
+72,Female,25.5,3,4,Never,,5,Some HE,West Midlands,151
+40,Male,20.0,3,2,Never,8.0,3,No qualification,West Midlands,142
+74,Female,35.2,7,5,Ex-smoker,3.5,4,A-level,East Midlands,134
+49,Female,37.8,4,2,Never,1.4,5,Degree,West Midlands,129
+88,Female,21.7,2,4,Never,22.5,1,A-level,North East,136
+20,Female,28.3,0,2,Never,17.1,3,A-level,Yorkshire,133
+20,Female,22.2,6,2,Ex-smoker,2.6,4,Degree,North West,103
+57,Female,25.5,5,3,Never,5.5,4,Below GCSE,East Midlands,139
+85,Female,36.0,5,5,Current,10.4,3,Degree,Yorkshire,160
+22,Female,24.7,2,3,Current,1.7,2,Below GCSE,North West,121
+74,Male,25.6,1,3,Current,2.2,2,GCSE,South East,170
+86,Female,22.3,3,1,Never,,4,Degree,North West,129
+53,Female,32.7,6,1,Ex-smoker,20.5,5,GCSE,Yorkshire,148
+81,Female,15.0,2,1,Never,9.3,5,GCSE,East of England,142
+73,Female,24.8,4,4,Current,,3,GCSE,Yorkshire,123
+33,Male,26.8,7,2,Never,,2,A-level,South East,140
+80,Male,23.7,1,2,Never,22.4,5,Degree,Yorkshire,159
+69,Female,31.3,1,3,Never,14.6,4,Degree,West Midlands,141
+18,Female,33.0,1,3,Current,2.3,3,GCSE,North West,122
+59,Female,19.9,7,2,Current,4.1,3,Degree,West Midlands,115
+65,Female,37.5,4,1,Never,10.7,1,Degree,East Midlands,167
+76,Female,19.9,7,3,Never,26.5,5,A-level,East Midlands,123
+74,Female,33.4,7,4,Ex-smoker,2.3,4,Degree,East Midlands,127
+52,Male,27.7,3,2,Current,23.5,3,GCSE,North East,147
+39,Female,24.5,0,3,Ex-smoker,3.9,5,GCSE,North West,114
+31,Male,,2,1,Never,6.9,4,Below GCSE,London,121
+24,Female,26.8,4,5,Ex-smoker,4.0,5,Degree,East Midlands,130
+64,Male,28.0,3,5,Current,3.7,3,A-level,South West,154
+88,Female,22.4,0,1,Never,2.3,3,Below GCSE,South East,145
+23,Male,25.8,7,3,Never,6.7,5,Some HE,North West,119
+69,Male,23.1,2,2,Never,1.8,5,GCSE,North West,139
+60,Female,20.9,4,4,Never,36.7,5,A-level,North East,130
+30,Female,22.9,7,3,Ex-smoker,10.9,5,Some HE,East of England,108
+33,Male,21.3,4,3,Never,,3,Degree,East of England,119
+38,Female,24.9,5,2,Never,4.4,2,GCSE,North West,117
+68,Male,,0,1,Never,7.5,3,Degree,South East,141
+39,Male,,5,3,Current,5.3,5,Below GCSE,London,146
+78,Male,36.9,6,3,Current,5.9,3,A-level,East of England,163
+44,Female,15.9,7,4,Never,8.3,4,Degree,West Midlands,107
+25,Female,29.3,0,4,Ex-smoker,3.9,5,GCSE,East Midlands,116
+24,Female,27.0,1,3,Never,21.0,5,A-level,South East,123
+47,Female,,0,3,Current,1.7,5,Degree,East Midlands,163
+47,Female,30.6,7,5,Ex-smoker,,4,No qualification,North East,116
+71,Female,26.2,2,4,Never,0.2,3,GCSE,South West,140
+52,Female,27.9,4,4,Current,,5,A-level,East of England,138
+29,Male,23.3,3,5,Never,17.4,2,Below GCSE,South West,125
+33,Male,30.1,5,2,Ex-smoker,0.9,2,A-level,South West,124
+59,Male,17.6,7,3,Never,7.1,5,A-level,West Midlands,140
+42,Female,30.9,2,3,Ex-smoker,1.4,4,Degree,East of England,137
+67,Female,26.9,6,2,Never,10.4,3,Degree,West Midlands,142
+85,Male,24.6,2,3,Never,1.3,1,A-level,London,157
+43,Female,25.8,1,3,Never,0.2,3,A-level,West Midlands,140
+58,Female,26.2,0,3,Current,2.8,5,GCSE,London,161
+78,Male,33.5,2,2,Never,0.4,4,A-level,East of England,167
+33,Male,43.2,4,4,Ex-smoker,3.0,3,A-level,North West,161
+55,Male,33.1,6,3,Never,,4,Below GCSE,East of England,150
+40,Male,24.2,6,3,Current,0.2,5,No qualification,Yorkshire,126
+63,Female,30.1,4,2,Never,13.8,5,Some HE,East of England,146
+72,Female,30.4,3,3,Ex-smoker,11.2,3,Below GCSE,North East,150
+28,Male,22.4,1,1,Current,20.4,4,GCSE,North East,153
+31,Female,20.7,7,2,Never,16.8,2,Degree,North East,105
+19,Male,26.7,3,2,Never,3.7,3,Some HE,East of England,130
+18,Male,31.0,6,4,Current,15.5,2,Degree,South West,121
+21,Male,18.9,5,2,Never,17.9,3,GCSE,West Midlands,122
+69,Female,23.4,7,3,Never,10.2,4,A-level,North West,129
+83,Female,29.9,7,4,Never,0.5,3,A-level,East Midlands,145
+47,Female,27.2,5,3,Current,,2,GCSE,Yorkshire,120
+82,Male,34.1,5,4,Current,2.9,2,Some HE,North West,165
+71,Female,19.9,1,1,Ex-smoker,18.8,1,Some HE,Yorkshire,141
+76,Male,38.8,0,2,Ex-smoker,0.0,4,Below GCSE,East of England,160
+72,Male,19.3,4,1,Never,1.8,2,No qualification,South West,159
+32,Female,16.9,5,3,Never,14.4,1,GCSE,East of England,112
+56,Female,26.7,5,5,Never,7.2,5,Degree,West Midlands,134
+56,Male,21.3,2,3,Never,0.8,2,Degree,North West,138
+64,Female,26.8,4,3,Never,8.0,5,Degree,South West,138
+76,Female,26.6,6,2,Ex-smoker,10.9,4,A-level,South East,160
+26,Female,26.0,0,5,Never,,4,Degree,South West,127
+67,Female,22.8,3,3,Never,27.2,4,Below GCSE,West Midlands,130
+78,Male,29.2,7,2,Never,0.7,2,GCSE,South West,162
+26,Female,25.4,1,5,Never,5.3,5,A-level,East of England,121
+48,Male,32.5,2,3,Never,9.7,5,Degree,South West,125
+83,Male,,3,2,Never,5.9,3,Some HE,North East,142
+19,Female,22.2,5,1,Never,13.4,4,A-level,East Midlands,101
+29,Female,18.6,2,2,Never,43.3,3,GCSE,Yorkshire,102
+76,Male,26.1,6,4,Ex-smoker,46.6,5,Degree,East Midlands,138
+30,Female,20.7,1,3,Current,8.6,5,Below GCSE,London,128
+69,Female,20.3,2,5,Ex-smoker,10.2,1,Degree,South West,149
+83,Female,29.6,4,1,Ex-smoker,19.6,5,Degree,North West,151
+54,Male,18.1,0,3,Current,0.1,5,No qualification,East Midlands,149
+53,Male,34.1,6,3,Never,1.6,4,Degree,Yorkshire,129
+49,Male,27.8,5,3,Ex-smoker,1.7,1,Degree,Yorkshire,143
+45,Male,26.8,6,3,Never,13.8,5,GCSE,West Midlands,144
+45,Male,21.8,2,3,Never,26.6,4,Some HE,West Midlands,137
+58,Male,30.8,3,3,Never,5.1,3,Degree,South West,146
+83,Male,27.0,7,4,Never,1.3,5,Degree,South West,131
+89,Male,23.6,0,2,Ex-smoker,9.5,4,Degree,South East,165
+81,Female,28.0,3,3,Never,2.0,5,A-level,South West,163
+26,Female,18.6,3,3,Ex-smoker,5.8,4,Degree,West Midlands,120
+40,Male,18.8,3,2,Current,1.1,2,GCSE,North East,128
+73,Female,,3,2,Never,6.0,5,Below GCSE,East of England,139
+57,Male,28.7,5,5,Never,6.1,4,Degree,West Midlands,133
+42,Male,27.0,1,2,Never,7.4,3,Some HE,North West,133
+40,Female,32.2,7,2,Never,7.7,3,Degree,Yorkshire,131
+26,Male,22.4,7,3,Current,3.7,1,Degree,South West,127
+42,Male,29.9,1,1,Ex-smoker,19.0,4,Degree,South West,148
+48,Male,26.4,7,1,Ex-smoker,1.1,3,GCSE,West Midlands,133
+48,Female,22.3,2,1,Never,0.7,5,Some HE,South West,121
+58,Female,28.9,0,1,Ex-smoker,5.3,5,A-level,South West,136
+37,Male,26.7,3,3,Ex-smoker,0.6,4,GCSE,West Midlands,126
+33,Male,23.9,6,4,Never,1.2,2,Below GCSE,West Midlands,122
+82,Male,27.2,6,2,Never,1.3,4,Some HE,South West,163
+47,Female,,5,3,Never,0.8,1,Degree,London,147
+36,Male,26.2,6,3,Never,12.9,5,No qualification,Yorkshire,134
+64,Female,24.9,2,2,Current,2.9,3,Some HE,East of England,145
+57,Female,20.5,7,3,Ex-smoker,24.6,5,GCSE,West Midlands,111
+60,Male,27.4,5,2,Never,7.3,3,GCSE,South East,140
+34,Female,23.0,1,2,Current,18.4,2,A-level,South West,124
+70,Male,21.9,1,2,Never,7.7,5,Degree,West Midlands,161
+32,Male,25.8,2,1,Never,5.4,3,Degree,South East,114
+79,Male,30.7,0,4,Current,6.7,5,A-level,South West,165
+48,Male,27.9,2,5,Current,2.8,5,A-level,Yorkshire,135
+47,Female,24.3,7,4,Ex-smoker,,3,GCSE,Yorkshire,123
+46,Female,24.1,1,1,Never,1.0,3,GCSE,East of England,138
+48,Male,30.2,5,4,Current,6.0,4,Below GCSE,South East,151
+66,Male,,7,3,Ex-smoker,10.2,5,No qualification,London,136
+54,Female,,2,1,Ex-smoker,8.5,5,GCSE,West Midlands,142
+27,Male,17.6,5,5,Never,3.0,2,Degree,Yorkshire,112
+59,Male,19.9,3,4,Never,1.2,4,A-level,West Midlands,138
+37,Female,24.4,2,2,Current,9.7,2,GCSE,East of England,142
+25,Female,37.9,7,5,Current,17.3,4,A-level,London,132
+79,Female,35.4,5,1,Ex-smoker,0.9,5,Degree,South West,140
+40,Male,,3,3,Never,2.4,5,A-level,London,130
+61,Male,28.8,6,2,Ex-smoker,,3,Some HE,East Midlands,148
+30,Male,17.7,7,2,Never,14.0,3,Some HE,South West,106
+42,Female,27.8,6,5,Never,5.5,2,Below GCSE,London,115
+46,Male,24.3,6,3,Never,8.1,1,A-level,West Midlands,135
+27,Male,22.9,2,2,Never,1.4,3,A-level,East of England,122
+89,Male,,2,4,Ex-smoker,,5,A-level,North East,139
+40,Female,24.6,1,4,Never,11.7,3,A-level,East of England,143
+60,Female,31.3,5,5,Never,12.8,2,Degree,London,124
+59,Female,17.3,6,5,Current,2.6,4,A-level,Yorkshire,129
+49,Male,27.4,5,5,Ex-smoker,19.9,2,Some HE,Yorkshire,127
+60,Female,22.6,4,3,Never,0.3,2,GCSE,North East,129
+59,Male,25.0,6,2,Never,2.4,5,Degree,Yorkshire,126
+23,Male,28.5,1,5,Ex-smoker,,1,No qualification,East of England,137
+66,Male,21.4,2,1,Never,1.3,3,GCSE,Yorkshire,142
+26,Female,27.8,5,2,Never,0.4,4,A-level,North West,129
+49,Male,25.9,0,3,Never,12.4,2,Some HE,East Midlands,134
+44,Female,23.7,7,2,Never,9.2,2,Some HE,North West,143
+50,Female,24.6,1,3,Ex-smoker,4.7,2,GCSE,North East,114
+23,Male,26.2,6,5,Never,7.0,3,GCSE,Yorkshire,105
+69,Female,23.2,4,3,Never,4.7,5,GCSE,East Midlands,153
+48,Female,27.0,6,3,Never,11.5,3,Below GCSE,East Midlands,131
+22,Male,25.6,6,3,Never,1.3,3,A-level,North West,124
+18,Female,23.9,4,3,Never,0.3,3,GCSE,North West,120
+57,Male,34.9,6,1,Current,19.4,5,A-level,South West,151
+66,Male,29.1,2,1,Never,4.4,1,GCSE,London,149
+57,Female,25.1,4,3,Never,24.2,5,A-level,North West,122
+70,Female,27.7,7,3,Never,34.8,2,GCSE,South West,142
+73,Male,21.9,0,2,Ex-smoker,23.7,5,Degree,North East,154
+81,Male,24.8,2,2,Never,7.7,2,Degree,London,164
+89,Female,25.4,0,1,Current,0.7,1,Degree,North East,174
+82,Male,20.8,4,3,Ex-smoker,40.5,3,No qualification,Yorkshire,148
+76,Female,28.9,6,3,Never,6.6,2,A-level,South West,126
+49,Female,24.5,0,3,Ex-smoker,2.9,4,Some HE,London,152
+54,Female,25.2,4,4,Never,10.1,4,A-level,North West,121
+62,Male,24.2,3,4,Current,3.0,4,A-level,South East,149
+30,Female,41.8,6,2,Current,2.4,2,Below GCSE,London,132
+67,Male,,1,3,Never,11.9,4,No qualification,North West,142
+60,Male,,1,1,Ex-smoker,1.5,2,Below GCSE,Yorkshire,151
+55,Male,19.0,0,2,Never,8.6,5,Below GCSE,South East,141
+78,Male,30.8,3,3,Never,6.5,4,Degree,East of England,155
+68,Female,33.7,3,1,Ex-smoker,8.3,4,Degree,West Midlands,135
+86,Female,23.6,7,2,Current,10.0,5,A-level,West Midlands,142
+89,Female,33.4,3,4,Never,2.3,4,GCSE,East of England,143
+78,Female,30.7,1,4,Ex-smoker,14.2,4,Degree,East of England,146
+39,Female,26.1,5,5,Ex-smoker,12.3,2,GCSE,London,123
+31,Female,25.7,0,4,Never,2.2,4,Degree,London,146
+39,Female,27.9,2,2,Ex-smoker,21.9,3,Degree,North East,127
+70,Female,,5,3,Ex-smoker,20.9,1,Some HE,South West,115
+81,Female,29.0,2,2,Ex-smoker,31.8,5,Below GCSE,North East,161
+82,Male,23.6,4,3,Current,6.3,1,GCSE,London,156
+67,Female,26.1,3,2,Never,0.3,4,A-level,North East,137
+67,Male,36.9,7,1,Never,12.7,2,GCSE,East of England,139
+87,Male,28.3,2,1,Never,14.0,3,GCSE,North West,144
+68,Female,31.3,7,4,Never,2.1,5,Some HE,North West,155
+28,Male,29.7,5,1,Never,4.4,1,GCSE,East of England,127
+54,Male,28.4,5,3,Current,1.0,4,Degree,Yorkshire,125
+44,Male,27.5,1,4,Never,3.4,4,A-level,East of England,141
+64,Male,31.5,0,4,Ex-smoker,10.5,5,Degree,North West,162
+64,Female,30.6,5,2,Never,13.7,2,A-level,North East,138
+39,Female,28.3,3,2,Never,2.1,5,A-level,North West,119
+39,Male,23.5,2,5,Current,17.9,3,Degree,Yorkshire,128
+24,Female,28.9,7,3,Ex-smoker,5.9,3,A-level,East of England,107
+39,Female,26.7,2,2,Never,13.8,3,GCSE,London,144
+78,Female,,3,5,Current,3.5,3,GCSE,East Midlands,148
+65,Male,40.4,5,2,Never,1.0,3,Degree,South East,131
+86,Female,,7,3,Never,12.5,1,Degree,East Midlands,144
+85,Male,31.8,7,1,Never,1.6,3,Some HE,North West,149
+80,Male,22.7,5,1,Ex-smoker,5.3,4,Below GCSE,South East,139
+31,Female,27.7,0,2,Never,0.1,3,Below GCSE,North East,119
+42,Male,39.8,0,3,Current,2.1,2,Some HE,West Midlands,141
+22,Female,,5,2,Never,13.7,3,GCSE,London,128
+24,Female,23.4,4,3,Never,,3,A-level,Yorkshire,120
+34,Male,26.9,1,4,Current,12.9,4,No qualification,London,144
+38,Male,22.8,5,4,Never,13.0,5,Degree,West Midlands,129
+19,Female,31.4,7,1,Never,13.0,4,A-level,East Midlands,119
+79,Female,24.3,0,4,Never,9.8,4,A-level,Yorkshire,141
+56,Male,30.3,6,2,Never,1.6,1,Some HE,East of England,135
+65,Female,20.4,2,3,Never,6.1,5,Degree,South East,147
+65,Female,18.0,3,2,Never,9.7,2,Degree,East of England,146
+88,Female,25.9,5,3,Ex-smoker,17.1,3,A-level,Yorkshire,131
+28,Male,19.2,1,2,Never,11.9,2,GCSE,North East,124
+43,Female,34.6,1,3,Never,12.9,1,GCSE,South East,145
+40,Female,19.4,7,1,Ex-smoker,11.1,5,Degree,East of England,136
+58,Male,21.8,2,2,Never,1.8,2,Below GCSE,North West,156
+56,Female,29.1,1,3,Ex-smoker,3.5,2,Some HE,South West,130
+75,Female,24.1,5,2,Ex-smoker,5.1,2,No qualification,South West,150
+58,Female,19.4,1,3,Never,5.6,5,Degree,North West,134
+35,Female,37.2,6,3,Never,5.3,5,Below GCSE,East Midlands,138
+59,Female,22.0,0,3,Never,2.1,5,Below GCSE,West Midlands,145
+88,Female,26.0,4,4,Never,14.8,5,Below GCSE,East Midlands,132
+60,Female,26.0,3,4,Never,3.2,5,GCSE,West Midlands,141
+61,Male,30.6,7,5,Ex-smoker,2.5,3,Some HE,South West,147
+30,Male,29.3,4,1,Ex-smoker,,2,GCSE,Yorkshire,128
+18,Male,22.9,7,3,Never,9.5,2,A-level,East of England,113

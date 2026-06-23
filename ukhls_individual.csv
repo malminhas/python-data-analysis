@@ -1,0 +1,521 @@
+pidp,hidp,age,sex,health,employment,income_monthly,education,hours_worked,smoker
+2001,10002,36,Female,3,Employed,2660.28,A-level,8.0,1
+2002,10002,28,male,3,Employed,,A-level,32.0,0
+2003,10003,20,M,3,Self-employed,2321.31,A-level,50.0,0
+2004,10003,77,Male,2,Employed,,Degree,9.0,0
+2005,10004,22,female,1,Unemployed,1136.8,A-level,-9.0,0
+2006,10005,73,Male,3,Retired,1405.64,A-level,-9.0,0
+2007,10006,18,Female,2,Employed,4937.15,Degree,8.0,0
+2008,10006,66,Female,2,Employed,1236.06,Degree,26.0,0
+2009,10007,38,male,1,Employed,2983.27,Below GCSE,19.0,1
+2010,10007,50,Female,4,Inactive,1042.98,GCSE,-9.0,1
+2011,10007,35,Female,1,Retired,1015.82,Below GCSE,-9.0,0
+2012,10007,48,Female,3,Employed,2927.28,GCSE,25.0,0
+2013,10007,46,Female,2,Inactive,1644.76,Below GCSE,-9.0,0
+2014,10008,51,Female,3,Self-employed,3013.14,Below GCSE,37.0,1
+2015,10009,42,Female,2,Self-employed,4512.62,Degree,8.0,1
+2016,10009,51,Male,2,Inactive,200.0,No qualification,-9.0,0
+2017,10010,70,Female,3,Employed,3033.83,Degree,16.0,0
+2018,10011,45,M,3,Employed,3722.43,GCSE,40.0,
+2019,10011,40,Female,2,Unemployed,672.6,Below GCSE,-9.0,1
+2020,10012,26,male,2,Employed,2277.14,A-level,32.0,0
+2021,10013,40,Male,2,Retired,861.22,GCSE,-9.0,1
+2022,10013,25,Female,2,Employed,3376.89,A-level,27.0,0
+2023,10013,29,Male,3,Employed,2698.15,Degree,52.0,
+2024,10017,77,Male,1,Employed,1888.58,Degree,18.0,1
+2025,10018,23,Female,3,Employed,2913.94,Degree,16.0,0
+2026,10019,48,Male,1,Employed,2274.69,Degree,13.0,0
+2027,10019,70,Male,3,Employed,2324.42,GCSE,51.0,
+2028,10019,78,Female,2,Inactive,693.47,GCSE,-9.0,1
+2029,10020,27,Female,3,Employed,1595.46,A-level,38.0,0
+2030,10022,28,Female,2,Employed,3742.58,GCSE,60.0,0
+2031,10023,41,Male,4,Employed,1542.08,Degree,42.0,1
+2032,10023,52,Female,3,Employed,2203.57,Degree,29.0,0
+2033,10023,78,Female,4,Employed,,Below GCSE,18.0,1
+2034,10024,31,Female,2,Retired,1646.15,No qualification,-9.0,0
+2035,10024,28,Female,2,Employed,2887.84,A-level,16.0,0
+2036,10024,33,Male,1,Inactive,456.45,Degree,-9.0,0
+2037,10025,73,Female,2,Inactive,1429.3,Below GCSE,-9.0,1
+2038,10025,19,Male,3,Employed,2865.95,Below GCSE,9.0,1
+2039,10025,41,Female,4,Employed,2833.77,A-level,51.0,0
+2040,10026,25,Male,3,Employed,2718.22,Degree,30.0,0
+2041,10026,27,Female,3,Retired,1357.74,Degree,-9.0,1
+2042,10026,75,Male,2,Employed,,GCSE,46.0,0
+2043,10026,18,M,1,Inactive,1221.58,No qualification,-9.0,0
+2044,10027,38,Male,4,Retired,1916.89,GCSE,-9.0,1
+2045,10027,75,Female,2,Student,1490.42,A-level,-9.0,1
+2046,10027,56,Male,1,Self-employed,1568.5,GCSE,45.0,
+2047,10027,22,Male,5,Inactive,975.63,Below GCSE,-9.0,0
+2048,10028,47,Female,5,Employed,2062.22,A-level,32.0,0
+2049,10029,79,Female,3,Employed,2900.22,Below GCSE,23.0,1
+2050,10030,43,Female,2,Employed,2450.23,A-level,59.0,0
+2051,10030,51,female,4,Inactive,1824.72,A-level,-9.0,0
+2052,10030,51,Female,2,Unemployed,1375.77,GCSE,-9.0,1
+2053,10031,59,female,2,Student,1019.79,A-level,-9.0,0
+2054,10031,29,Male,2,Employed,3404.11,No qualification,60.0,1
+2055,10031,70,male,5,Inactive,1206.38,GCSE,-9.0,0
+2056,10032,80,Female,5,Self-employed,2280.7,A-level,53.0,1
+2057,10033,26,Female,3,Self-employed,3082.44,A-level,52.0,0
+2058,10033,69,female,1,Inactive,596.41,GCSE,-9.0,
+2059,10034,69,Female,3,Employed,3603.57,A-level,30.0,1
+2060,10034,64,Female,2,Employed,2102.94,GCSE,21.0,0
+2061,10034,41,Female,4,Unemployed,1259.05,A-level,-9.0,0
+2062,10035,47,Male,1,Employed,2209.27,A-level,15.0,0
+2063,10035,70,Female,1,Employed,2290.93,GCSE,52.0,1
+2064,10035,27,Female,3,Employed,3789.27,Degree,43.0,1
+2065,10036,70,Female,3,Employed,3365.92,GCSE,33.0,0
+2066,10036,76,male,4,Inactive,935.31,GCSE,-9.0,0
+2067,10036,60,Male,1,Unemployed,732.0,A-level,-9.0,0
+2068,10037,39,Male,4,Employed,1872.35,GCSE,35.0,
+2069,10037,53,Male,1,Employed,2863.38,Below GCSE,52.0,1
+2070,10037,21,Female,1,Employed,1741.42,Below GCSE,57.0,1
+2071,10038,76,Male,3,Retired,1406.68,A-level,-9.0,0
+2072,10040,39,Female,2,Inactive,1066.21,A-level,-9.0,0
+2073,10040,21,Female,3,Inactive,1311.53,GCSE,-9.0,1
+2074,10040,68,male,1,Employed,1853.3,GCSE,24.0,1
+2075,10040,59,Male,1,Employed,2670.14,GCSE,10.0,0
+2076,10040,57,Female,3,Self-employed,1704.95,GCSE,29.0,0
+2077,10040,21,Male,2,Unemployed,1025.65,Below GCSE,-9.0,0
+2078,10041,65,M,3,Self-employed,1974.02,Degree,15.0,0
+2079,10041,58,Male,3,Retired,609.83,GCSE,-9.0,0
+2080,10042,67,Male,1,Unemployed,1007.6,Degree,-9.0,0
+2081,10043,70,Male,4,Employed,2864.82,A-level,30.0,0
+2082,10043,31,male,2,Employed,1634.19,GCSE,15.0,1
+2083,10043,31,Male,2,Employed,4335.48,A-level,46.0,1
+2084,10043,76,Female,1,Employed,3807.55,A-level,50.0,1
+2085,10044,51,Female,4,Employed,3067.22,Below GCSE,48.0,0
+2086,10045,45,Female,3,Retired,2686.26,Below GCSE,-9.0,0
+2087,10046,36,Male,3,Employed,2989.6,GCSE,20.0,0
+2088,10046,58,Male,5,Employed,1790.71,No qualification,36.0,0
+2089,10047,65,Female,2,Unemployed,348.78,A-level,-9.0,0
+2090,10047,18,Male,4,Retired,1154.89,Below GCSE,-9.0,1
+2091,10047,52,Female,3,Employed,2885.9,Degree,34.0,1
+2092,10047,80,Male,5,Student,902.79,Degree,-9.0,1
+2093,10047,35,Female,4,Inactive,1312.85,A-level,-9.0,0
+2094,10048,35,Male,5,Retired,1584.68,Degree,-9.0,0
+2095,10049,73,Female,1,Retired,1153.39,GCSE,-9.0,0
+2096,10050,21,Male,4,Employed,3798.25,Degree,54.0,0
+2097,10050,43,Female,4,Inactive,1071.04,GCSE,-9.0,0
+2098,10051,46,Male,3,Employed,,Degree,36.0,0
+2099,10051,68,female,2,Inactive,633.18,Degree,-9.0,1
+2100,10051,26,Female,5,Unemployed,1025.98,No qualification,-9.0,0
+2101,10051,45,Male,2,Employed,2792.89,GCSE,16.0,1
+2102,10052,27,Male,3,Employed,3046.46,No qualification,35.0,1
+2103,10053,67,Male,3,Retired,1427.97,A-level,-9.0,0
+2104,10054,57,Male,2,Unemployed,861.94,Degree,-9.0,1
+2105,10055,49,Male,3,Employed,2506.87,GCSE,51.0,0
+2106,10056,42,M,1,Retired,,GCSE,-9.0,1
+2107,10056,27,Female,3,Inactive,790.23,Degree,-9.0,1
+2108,10056,76,Male,4,Self-employed,2292.88,Below GCSE,28.0,1
+2109,10057,58,Female,2,Self-employed,2401.29,GCSE,37.0,1
+2110,10057,38,Male,3,Employed,2764.26,GCSE,28.0,0
+2111,10057,44,female,2,Student,1028.82,A-level,-9.0,1
+2112,10061,63,Male,4,Employed,2526.02,GCSE,24.0,0
+2113,10063,63,Female,5,Inactive,628.67,Degree,-9.0,0
+2114,10064,47,Female,2,Employed,2883.12,No qualification,35.0,0
+2115,10064,37,Male,3,Unemployed,487.26,A-level,-9.0,1
+2116,10065,59,Male,3,Employed,3229.33,Degree,36.0,0
+2117,10065,59,Male,3,Employed,2799.49,Degree,28.0,0
+2118,10066,55,M,3,Student,935.86,GCSE,-9.0,1
+2119,10066,22,Female,3,Self-employed,,No qualification,48.0,0
+2120,10067,47,Female,3,Unemployed,897.93,Below GCSE,-9.0,0
+2121,10067,56,male,2,Inactive,385.49,GCSE,-9.0,0
+2122,10067,77,male,2,Inactive,409.12,No qualification,-9.0,0
+2123,10068,51,Female,4,Inactive,766.45,GCSE,-9.0,1
+2124,10068,39,Female,1,Employed,2953.16,A-level,53.0,0
+2125,10069,53,Female,3,Retired,1442.33,GCSE,-9.0,0
+2126,10069,29,Male,2,Inactive,1250.08,Degree,-9.0,1
+2127,10070,23,M,4,Employed,3639.37,Degree,22.0,0
+2128,10071,60,Male,3,Employed,3235.58,A-level,56.0,1
+2129,10072,80,Male,2,Student,433.06,Degree,-9.0,0
+2130,10074,71,male,2,Self-employed,903.08,No qualification,18.0,1
+2131,10074,54,Male,2,Unemployed,1129.95,No qualification,-9.0,0
+2132,10074,20,Male,5,Inactive,1751.35,A-level,-9.0,0
+2133,10075,80,Male,3,Retired,,GCSE,-9.0,0
+2134,10075,46,Female,3,Employed,2008.32,A-level,36.0,0
+2135,10076,36,male,3,Employed,,Degree,47.0,0
+2136,10077,74,Male,2,Employed,3574.48,A-level,51.0,1
+2137,10077,65,Male,2,Employed,4202.93,Degree,13.0,0
+2138,10078,65,Female,2,Student,719.38,A-level,-9.0,0
+2139,10078,35,Female,2,Student,871.67,Degree,-9.0,0
+2140,10078,80,Male,3,Employed,3472.54,Degree,56.0,0
+2141,10078,46,Female,4,Employed,2851.67,Degree,42.0,0
+2142,10079,51,M,4,Inactive,681.73,No qualification,-9.0,1
+2143,10079,65,Male,4,Employed,3173.15,Degree,49.0,1
+2144,10079,59,male,3,Self-employed,3320.8,A-level,39.0,0
+2145,10079,28,Female,2,Self-employed,2879.17,GCSE,20.0,
+2146,10080,37,Female,3,Retired,1475.04,A-level,-9.0,0
+2147,10081,40,Female,5,Employed,2567.16,GCSE,45.0,0
+2148,10081,77,male,3,Retired,2004.63,Degree,-9.0,0
+2149,10081,63,male,3,Employed,1989.38,GCSE,40.0,0
+2150,10082,41,Female,3,Retired,2185.0,GCSE,-9.0,1
+2151,10082,64,female,4,Employed,2809.89,GCSE,11.0,0
+2152,10083,64,Female,5,Self-employed,,GCSE,21.0,0
+2153,10083,42,male,4,Self-employed,1452.36,A-level,31.0,0
+2154,10084,43,M,2,Employed,1620.73,A-level,26.0,0
+2155,10084,74,Male,2,Employed,966.04,Degree,23.0,0
+2156,10084,53,Male,3,Employed,2829.43,GCSE,42.0,0
+2157,10085,27,Female,2,Employed,1793.52,Degree,29.0,1
+2158,10085,63,M,5,Employed,2453.9,A-level,34.0,0
+2159,10085,55,Male,3,Inactive,983.86,GCSE,-9.0,0
+2160,10086,50,Female,3,Employed,2222.61,Degree,12.0,0
+2161,10086,63,Male,2,Student,826.49,Degree,-9.0,0
+2162,10087,75,Male,3,Inactive,1051.76,GCSE,-9.0,0
+2163,10087,38,Female,3,Employed,,A-level,57.0,0
+2164,10087,44,Male,1,Retired,1222.65,Below GCSE,-9.0,0
+2165,10088,29,Female,4,Inactive,1026.21,No qualification,-9.0,0
+2166,10088,58,Male,2,Retired,1652.22,No qualification,-9.0,1
+2167,10089,43,Female,2,Employed,3739.37,A-level,25.0,1
+2168,10089,39,Male,2,Employed,3154.04,Degree,40.0,0
+2169,10089,61,female,3,Employed,1542.73,GCSE,52.0,0
+2170,10090,43,Female,3,Unemployed,1003.2,GCSE,-9.0,1
+2171,10090,47,Male,4,Inactive,953.87,GCSE,-9.0,1
+2172,10090,45,Male,1,Inactive,1425.72,A-level,-9.0,1
+2173,10092,34,Male,5,Employed,3721.69,Degree,25.0,0
+2174,10093,25,Female,3,Retired,1742.02,Degree,-9.0,0
+2175,10093,70,male,2,Employed,2941.51,Degree,47.0,0
+2176,10093,23,Female,2,Inactive,,Degree,-9.0,1
+2177,10094,38,Female,2,Employed,3410.67,No qualification,53.0,0
+2178,10094,60,Female,4,Inactive,1750.85,Degree,-9.0,0
+2179,10094,26,Female,2,Student,863.16,GCSE,-9.0,0
+2180,10095,59,Female,3,Employed,3584.74,No qualification,23.0,0
+2181,10096,64,Female,3,Employed,2294.37,A-level,14.0,0
+2182,10098,59,Female,4,Student,699.66,GCSE,-9.0,0
+2183,10098,37,female,3,Employed,1725.07,GCSE,25.0,0
+2184,10100,19,Male,4,Unemployed,488.3,A-level,-9.0,1
+2185,10102,73,Male,2,Inactive,1210.48,A-level,-9.0,0
+2186,10102,38,Male,4,Unemployed,739.45,Below GCSE,-9.0,0
+2187,10102,68,Female,2,Employed,4428.02,GCSE,47.0,1
+2188,10103,30,Male,1,Employed,4082.8,Below GCSE,45.0,0
+2189,10103,28,Female,5,Employed,1336.52,No qualification,13.0,0
+2190,10103,67,Female,2,Inactive,1792.9,A-level,-9.0,0
+2191,10104,77,Female,1,Employed,4079.9,GCSE,10.0,0
+2192,10104,72,male,3,Employed,2388.87,GCSE,39.0,0
+2193,10104,65,Male,2,Employed,2891.3,GCSE,18.0,0
+2194,10105,33,male,1,Inactive,1442.4,GCSE,-9.0,0
+2195,10105,75,Male,3,Employed,3040.06,GCSE,15.0,0
+2196,10107,60,Female,4,Inactive,831.47,Below GCSE,-9.0,0
+2197,10107,28,Female,4,Retired,1222.71,A-level,-9.0,0
+2198,10109,26,male,2,Student,,GCSE,-9.0,0
+2199,10112,72,M,3,Inactive,984.9,Degree,-9.0,0
+2200,10113,35,Male,4,Inactive,367.48,GCSE,-9.0,0
+2201,10114,66,male,2,Inactive,1281.68,Below GCSE,-9.0,0
+2202,10115,26,Female,2,Employed,1776.77,Below GCSE,24.0,0
+2203,10115,35,Female,1,Student,1016.92,A-level,-9.0,1
+2204,10115,35,Male,3,Unemployed,1584.72,GCSE,-9.0,1
+2205,10116,35,Male,2,Unemployed,661.56,A-level,-9.0,0
+2206,10116,60,Female,3,Inactive,1094.53,Degree,-9.0,0
+2207,10117,75,Male,5,Inactive,622.74,Degree,-9.0,0
+2208,10117,75,Female,2,Retired,1708.12,No qualification,-9.0,0
+2209,10118,64,male,3,Self-employed,1831.84,A-level,57.0,1
+2210,10118,30,Female,2,Self-employed,2300.88,No qualification,26.0,0
+2211,10118,78,Male,1,Employed,3764.17,Degree,25.0,1
+2212,10120,52,Female,4,Employed,3342.64,GCSE,12.0,0
+2213,10121,52,Male,2,Employed,2682.98,GCSE,30.0,
+2214,10121,62,Female,5,Employed,3357.19,GCSE,34.0,1
+2215,10122,66,male,3,Employed,1755.18,GCSE,43.0,0
+2216,10122,78,Male,2,Student,1180.01,GCSE,-9.0,1
+2217,10122,54,Male,2,Employed,2932.59,No qualification,18.0,0
+2218,10122,56,Male,2,Inactive,1568.43,GCSE,-9.0,1
+2219,10122,64,Female,4,Retired,,Degree,-9.0,0
+2220,10122,34,male,3,Employed,2097.61,Degree,15.0,0
+2221,10123,37,Male,2,Employed,3258.84,GCSE,41.0,1
+2222,10123,57,Male,3,Employed,3296.67,A-level,58.0,0
+2223,10123,22,Female,3,Inactive,1220.17,GCSE,-9.0,0
+2224,10123,38,Male,4,Employed,3871.28,GCSE,15.0,1
+2225,10124,63,Female,1,Self-employed,200.0,A-level,60.0,0
+2226,10124,79,Female,1,Inactive,200.0,Below GCSE,-9.0,1
+2227,10125,50,Female,1,Inactive,910.87,GCSE,-9.0,0
+2228,10125,43,M,2,Employed,2514.44,GCSE,18.0,0
+2229,10125,45,Female,3,Employed,1480.43,GCSE,38.0,0
+2230,10126,61,male,1,Employed,1815.64,Below GCSE,12.0,0
+2231,10126,52,Male,2,Employed,3724.22,GCSE,41.0,1
+2232,10126,19,Male,2,Employed,1070.65,No qualification,18.0,0
+2233,10127,51,Female,1,Unemployed,1524.02,Degree,-9.0,0
+2234,10127,43,Male,5,Inactive,1349.74,GCSE,-9.0,0
+2235,10128,62,Female,3,Unemployed,1432.55,GCSE,-9.0,0
+2236,10128,73,Female,2,Retired,1211.95,A-level,-9.0,0
+2237,10129,78,Female,3,Employed,1884.5,Degree,44.0,1
+2238,10129,56,Male,2,Student,1309.42,GCSE,-9.0,1
+2239,10129,40,Female,4,Retired,1809.55,A-level,-9.0,1
+2240,10130,45,Female,3,Inactive,515.05,No qualification,-9.0,0
+2241,10130,29,Male,3,Inactive,617.88,A-level,-9.0,0
+2242,10130,76,Female,5,Employed,2023.13,Degree,12.0,0
+2243,10130,71,Female,4,Employed,3964.16,GCSE,39.0,1
+2244,10131,71,female,4,Employed,1584.91,A-level,31.0,0
+2245,10131,38,Female,2,Employed,4243.81,Degree,10.0,0
+2246,10131,38,Male,2,Inactive,1401.39,GCSE,-9.0,0
+2247,10132,71,Female,3,Employed,1754.26,GCSE,19.0,1
+2248,10132,52,Female,3,Student,516.97,Degree,-9.0,1
+2249,10132,62,Male,3,Unemployed,1237.88,GCSE,-9.0,1
+2250,10133,48,Female,4,Employed,1652.84,GCSE,27.0,0
+2251,10133,45,Male,2,Employed,2885.34,Below GCSE,19.0,1
+2252,10134,57,Male,2,Retired,1322.69,A-level,-9.0,0
+2253,10134,69,Female,3,Retired,805.56,Degree,-9.0,0
+2254,10136,39,Male,2,Employed,2458.29,No qualification,19.0,0
+2255,10137,68,Female,3,Employed,1177.43,GCSE,15.0,0
+2256,10137,33,Male,3,Retired,1179.75,Degree,-9.0,0
+2257,10138,43,Female,3,Employed,1981.81,Below GCSE,11.0,
+2258,10138,75,Male,3,Inactive,1218.35,Degree,-9.0,0
+2259,10139,78,Female,3,Employed,4600.87,Below GCSE,32.0,0
+2260,10139,76,Male,3,Employed,2850.77,GCSE,60.0,1
+2261,10139,37,Female,2,Self-employed,3020.83,No qualification,54.0,0
+2262,10140,71,Male,3,Self-employed,1201.24,No qualification,59.0,0
+2263,10140,76,Male,3,Self-employed,2211.43,Degree,36.0,0
+2264,10140,79,Female,2,Employed,2993.77,Below GCSE,30.0,
+2265,10140,19,male,3,Inactive,878.21,A-level,-9.0,0
+2266,10141,64,Female,4,Self-employed,3617.26,GCSE,12.0,0
+2267,10141,80,Male,2,Self-employed,1717.57,GCSE,52.0,0
+2268,10141,66,Male,3,Employed,2542.27,Degree,25.0,0
+2269,10142,32,Female,5,Employed,2272.55,Degree,8.0,0
+2270,10142,66,Female,4,Retired,2308.26,Degree,-9.0,0
+2271,10142,24,Male,2,Employed,2223.56,Degree,20.0,0
+2272,10143,48,Female,3,Retired,1508.72,Degree,-9.0,0
+2273,10144,57,Female,5,Employed,2587.48,No qualification,43.0,0
+2274,10145,46,Female,3,Inactive,631.82,GCSE,-9.0,0
+2275,10146,62,Male,1,Self-employed,3236.58,Below GCSE,52.0,0
+2276,10146,33,Female,1,Inactive,1153.89,Below GCSE,-9.0,0
+2277,10146,56,Male,4,Self-employed,2720.25,GCSE,46.0,0
+2278,10148,58,Female,2,Employed,2412.59,A-level,26.0,0
+2279,10149,57,Male,2,Student,921.89,Below GCSE,-9.0,0
+2280,10149,36,Female,2,Retired,1807.66,GCSE,-9.0,0
+2281,10150,37,male,4,Student,594.03,GCSE,-9.0,0
+2282,10152,34,Female,3,Employed,2894.22,No qualification,45.0,0
+2283,10152,47,Male,4,Retired,1019.0,GCSE,-9.0,0
+2284,10153,54,Male,3,Inactive,1188.5,GCSE,-9.0,0
+2285,10153,40,Female,5,Retired,2505.32,Below GCSE,-9.0,0
+2286,10154,43,Female,4,Employed,1096.15,A-level,53.0,0
+2287,10154,36,Female,2,Retired,303.73,Below GCSE,-9.0,1
+2288,10154,31,Male,3,Retired,1125.96,Degree,-9.0,0
+2289,10156,59,M,1,Inactive,674.33,Degree,-9.0,0
+2290,10156,69,Male,5,Employed,2953.56,GCSE,36.0,1
+2291,10156,36,Male,2,Employed,2295.6,Degree,38.0,
+2292,10156,72,Male,3,Student,820.58,No qualification,-9.0,0
+2293,10156,53,Female,4,Self-employed,2573.14,Degree,11.0,0
+2294,10156,28,Male,2,Retired,2008.86,GCSE,-9.0,1
+2295,10156,41,Male,4,Self-employed,2539.11,Degree,50.0,1
+2296,10157,18,Female,1,Employed,2978.54,No qualification,16.0,0
+2297,10159,20,Female,2,Retired,1579.4,A-level,-9.0,1
+2298,10159,39,Male,3,Employed,2074.35,Degree,16.0,0
+2299,10159,46,Male,2,Employed,1575.78,Degree,20.0,0
+2300,10159,68,Female,3,Retired,1099.27,GCSE,-9.0,0
+2301,10160,26,Male,5,Retired,2253.38,No qualification,-9.0,0
+2302,10161,70,Male,2,Inactive,,No qualification,-9.0,0
+2303,10161,32,Female,3,Employed,3668.65,A-level,60.0,1
+2304,10163,26,Male,4,Employed,2879.08,A-level,17.0,0
+2305,10163,62,Female,4,Inactive,898.91,Degree,-9.0,0
+2306,10163,66,Male,1,Employed,3073.45,GCSE,57.0,0
+2307,10164,56,Male,5,Employed,2717.61,GCSE,37.0,0
+2308,10165,25,Male,1,Employed,2322.26,Degree,10.0,0
+2309,10166,25,Male,3,Self-employed,4792.74,GCSE,30.0,1
+2310,10167,42,Male,3,Inactive,1287.09,Below GCSE,-9.0,0
+2311,10167,46,Male,4,Retired,2291.15,Degree,-9.0,0
+2312,10168,80,Female,1,Retired,1293.1,Degree,-9.0,0
+2313,10168,36,male,2,Employed,3026.67,Degree,42.0,1
+2314,10169,30,Male,4,Employed,1535.69,Degree,21.0,1
+2315,10169,77,Female,1,Self-employed,3810.41,Degree,51.0,0
+2316,10170,27,Female,3,Employed,2715.22,GCSE,31.0,0
+2317,10171,19,male,3,Employed,1800.16,Degree,59.0,0
+2318,10172,44,Male,3,Employed,3869.91,GCSE,12.0,1
+2319,10173,43,Male,2,Employed,3363.11,Below GCSE,25.0,1
+2320,10175,57,Male,2,Unemployed,1290.28,No qualification,-9.0,1
+2321,10176,73,Male,5,Retired,1671.1,GCSE,-9.0,
+2322,10177,76,Male,2,Employed,3392.92,Degree,19.0,
+2323,10177,36,M,1,Self-employed,2790.82,Degree,59.0,0
+2324,10177,79,Female,2,Student,564.65,Degree,-9.0,0
+2325,10177,57,Male,2,Retired,1922.82,No qualification,-9.0,0
+2326,10178,22,Female,5,Student,,No qualification,-9.0,0
+2327,10178,77,Male,2,Employed,2205.73,A-level,30.0,0
+2328,10178,26,Female,1,Student,498.45,A-level,-9.0,1
+2329,10178,55,Female,3,Employed,,GCSE,46.0,1
+2330,10179,67,Male,1,Employed,2813.21,Degree,50.0,1
+2331,10181,33,male,2,Employed,2089.01,No qualification,21.0,1
+2332,10182,35,female,5,Self-employed,2916.94,Degree,58.0,0
+2333,10183,47,Female,3,Employed,2737.18,A-level,31.0,0
+2334,10184,73,Female,1,Employed,1599.87,A-level,42.0,0
+2335,10184,32,Female,2,Retired,1156.44,Degree,-9.0,0
+2336,10185,59,Male,2,Employed,3308.64,A-level,43.0,0
+2337,10185,46,Male,1,Employed,458.3,Below GCSE,39.0,0
+2338,10186,25,Female,3,Employed,2984.87,Degree,33.0,1
+2339,10186,62,Male,3,Employed,2369.73,GCSE,42.0,
+2340,10186,70,male,3,Employed,3977.42,A-level,55.0,1
+2341,10186,54,Female,4,Employed,2355.88,Degree,28.0,1
+2342,10186,29,Female,2,Employed,3393.54,Degree,35.0,1
+2343,10187,27,Male,5,Retired,357.49,Degree,-9.0,0
+2344,10187,44,female,3,Inactive,849.36,Degree,-9.0,1
+2345,10187,49,Male,2,Self-employed,3463.15,A-level,48.0,1
+2346,10188,52,Male,4,Retired,350.4,Below GCSE,-9.0,1
+2347,10188,33,Male,1,Inactive,771.55,GCSE,-9.0,0
+2348,10188,49,Female,3,Inactive,290.02,No qualification,-9.0,0
+2349,10189,36,female,3,Retired,2145.06,A-level,-9.0,1
+2350,10190,61,Male,2,Inactive,1387.3,GCSE,-9.0,0
+2351,10190,68,Female,4,Inactive,,GCSE,-9.0,0
+2352,10190,59,Male,2,Student,768.84,Degree,-9.0,0
+2353,10192,18,Female,4,Self-employed,2112.9,A-level,42.0,0
+2354,10192,80,Male,1,Employed,1558.77,GCSE,24.0,0
+2355,10192,19,Female,2,Employed,1905.1,Below GCSE,51.0,1
+2356,10193,80,Female,2,Self-employed,3394.4,A-level,52.0,1
+2357,10195,20,Female,4,Self-employed,3248.13,Degree,36.0,1
+2358,10195,50,Male,1,Employed,2892.03,No qualification,28.0,0
+2359,10196,24,male,4,Unemployed,984.44,Degree,-9.0,0
+2360,10196,23,female,2,Unemployed,1258.05,No qualification,-9.0,0
+2361,10196,61,Female,3,Student,500.48,Below GCSE,-9.0,0
+2362,10197,63,Female,2,Employed,3843.05,Below GCSE,31.0,0
+2363,10197,25,male,1,Employed,5371.69,Below GCSE,35.0,1
+2364,10198,79,Male,5,Student,1247.86,Degree,-9.0,1
+2365,10198,38,M,2,Inactive,,GCSE,-9.0,0
+2366,10201,38,Male,3,Inactive,1476.64,Below GCSE,-9.0,0
+2367,10201,36,Female,3,Inactive,719.46,GCSE,-9.0,0
+2368,10201,47,Male,3,Inactive,1139.28,Degree,-9.0,0
+2369,10201,29,Male,3,Employed,1816.39,Degree,47.0,0
+2370,10202,44,Female,4,Employed,1497.7,A-level,33.0,0
+2371,10202,31,Female,3,Employed,4350.12,A-level,35.0,0
+2372,10203,21,M,3,Retired,1356.52,GCSE,-9.0,0
+2373,10203,41,female,3,Inactive,1420.83,Below GCSE,-9.0,1
+2374,10203,60,Male,3,Employed,2521.88,Below GCSE,20.0,0
+2375,10204,66,Male,2,Unemployed,1808.84,GCSE,-9.0,0
+2376,10205,40,Male,3,Employed,3668.1,Degree,22.0,0
+2377,10207,38,Female,2,Employed,2770.9,A-level,25.0,0
+2378,10207,67,Female,4,Employed,3277.62,A-level,27.0,0
+2379,10207,60,M,5,Employed,2623.6,Degree,12.0,1
+2380,10207,70,Female,5,Inactive,1290.75,Degree,-9.0,
+2381,10207,75,Male,4,Employed,1533.78,A-level,31.0,0
+2382,10209,69,Female,3,Student,1184.79,Degree,-9.0,0
+2383,10209,76,Female,3,Retired,1756.5,GCSE,-9.0,0
+2384,10209,44,Female,2,Employed,2850.85,Degree,43.0,0
+2385,10210,42,Male,3,Employed,1642.48,Degree,17.0,0
+2386,10210,38,Male,2,Student,499.97,Degree,-9.0,1
+2387,10210,32,Female,1,Employed,2848.38,GCSE,34.0,0
+2388,10210,65,Male,5,Inactive,1094.94,GCSE,-9.0,0
+2389,10211,63,Female,4,Employed,1976.39,A-level,42.0,0
+2390,10213,68,Male,3,Retired,,Degree,-9.0,0
+2391,10213,28,Female,2,Student,,No qualification,-9.0,1
+2392,10213,48,Female,3,Employed,1761.69,GCSE,53.0,0
+2393,10213,31,M,2,Employed,,GCSE,17.0,0
+2394,10214,74,Male,4,Inactive,890.4,GCSE,-9.0,0
+2395,10214,34,Male,5,Employed,3499.37,Below GCSE,24.0,1
+2396,10215,27,Male,2,Employed,2714.24,Below GCSE,58.0,0
+2397,10215,53,Female,2,Employed,2378.82,A-level,14.0,0
+2398,10215,73,Male,2,Employed,2233.59,GCSE,28.0,0
+2399,10215,75,Female,1,Student,810.91,Degree,-9.0,0
+2400,10216,24,Male,2,Student,900.53,GCSE,-9.0,1
+2401,10217,38,Male,1,Employed,3366.46,A-level,33.0,0
+2402,10217,27,Female,1,Student,715.55,Degree,-9.0,0
+2403,10217,37,Female,2,Employed,3536.89,No qualification,47.0,0
+2404,10218,51,M,2,Employed,2885.13,Below GCSE,45.0,0
+2405,10218,35,Female,3,Unemployed,1139.17,Degree,-9.0,0
+2406,10219,22,Female,1,Inactive,906.86,No qualification,-9.0,1
+2407,10219,50,Female,4,Employed,2075.93,A-level,31.0,0
+2408,10219,21,Female,2,Employed,1172.67,A-level,39.0,0
+2409,10219,32,Male,1,Self-employed,4189.14,Below GCSE,19.0,0
+2410,10220,18,Female,1,Student,643.23,A-level,-9.0,1
+2411,10220,23,Female,3,Employed,1256.96,A-level,15.0,0
+2412,10220,45,Male,2,Employed,2157.56,GCSE,49.0,
+2413,10221,71,Female,3,Retired,1505.73,Degree,-9.0,0
+2414,10221,66,Female,1,Employed,2548.29,A-level,22.0,0
+2415,10221,24,Female,5,Employed,2339.14,A-level,47.0,1
+2416,10221,20,Male,1,Employed,4060.79,GCSE,44.0,0
+2417,10223,39,Female,2,Employed,1857.44,Degree,51.0,0
+2418,10223,59,M,4,Self-employed,2081.66,Degree,56.0,0
+2419,10223,65,Male,2,Inactive,1054.75,GCSE,-9.0,0
+2420,10224,69,Male,2,Retired,,Degree,-9.0,0
+2421,10224,39,Male,4,Retired,906.88,A-level,-9.0,0
+2422,10226,28,Male,2,Inactive,1226.87,GCSE,-9.0,0
+2423,10226,19,female,1,Employed,2978.72,Below GCSE,29.0,1
+2424,10226,27,Female,2,Employed,3240.45,Degree,42.0,1
+2425,10226,22,Male,1,Inactive,1789.41,Below GCSE,-9.0,0
+2426,10227,72,Male,4,Employed,2856.43,GCSE,30.0,1
+2427,10227,34,female,3,Retired,1293.02,A-level,-9.0,1
+2428,10227,69,Male,3,Retired,1732.15,Below GCSE,-9.0,0
+2429,10228,52,Female,2,Employed,3495.29,GCSE,13.0,0
+2430,10229,51,Male,3,Self-employed,3299.63,GCSE,9.0,0
+2431,10231,46,Male,3,Employed,2839.8,GCSE,51.0,0
+2432,10231,69,Female,1,Employed,2071.79,GCSE,29.0,0
+2433,10232,20,Male,4,Self-employed,2860.9,No qualification,31.0,0
+2434,10232,23,Female,3,Employed,2774.78,GCSE,42.0,
+2435,10232,44,Male,4,Student,802.13,Below GCSE,-9.0,0
+2436,10233,42,Female,2,Inactive,514.91,GCSE,-9.0,1
+2437,10233,52,Female,1,Student,514.11,Below GCSE,-9.0,0
+2438,10233,64,Female,3,Employed,3180.06,No qualification,16.0,0
+2439,10234,55,Male,4,Employed,3761.62,Degree,57.0,1
+2440,10234,34,Female,2,Employed,2888.2,Degree,31.0,0
+2441,10234,38,female,1,Employed,4904.06,GCSE,16.0,0
+2442,10236,65,Male,4,Inactive,224.5,A-level,-9.0,0
+2443,10236,30,Male,2,Employed,3091.68,GCSE,25.0,0
+2444,10236,49,male,2,Employed,,Below GCSE,22.0,0
+2445,10236,51,Male,3,Inactive,684.1,No qualification,-9.0,0
+2446,10237,65,Female,1,Employed,3024.04,A-level,46.0,0
+2447,10238,63,Female,1,Employed,3561.67,GCSE,13.0,0
+2448,10238,47,Male,1,Employed,3087.19,Degree,24.0,0
+2449,10239,37,Female,5,Retired,1624.91,GCSE,-9.0,0
+2450,10240,41,Female,2,Student,403.88,Degree,-9.0,0
+2451,10240,43,Male,3,Employed,2501.05,GCSE,54.0,0
+2452,10240,31,M,5,Inactive,703.59,GCSE,-9.0,0
+2453,10241,57,Male,3,Inactive,687.52,GCSE,-9.0,1
+2454,10241,31,Male,3,Inactive,1208.94,GCSE,-9.0,0
+2455,10243,58,male,3,Employed,2175.16,A-level,9.0,0
+2456,10243,65,Male,2,Employed,1951.59,Degree,40.0,0
+2457,10243,78,male,3,Inactive,1238.78,Degree,-9.0,1
+2458,10245,25,Male,5,Employed,2472.06,No qualification,11.0,0
+2459,10247,65,Female,4,Retired,1072.13,No qualification,-9.0,0
+2460,10249,23,Male,2,Retired,1745.53,A-level,-9.0,0
+2461,10249,39,Female,2,Employed,3458.34,Degree,33.0,0
+2462,10250,29,male,4,Student,725.88,A-level,-9.0,0
+2463,10250,28,male,1,Inactive,,GCSE,-9.0,0
+2464,10250,29,female,4,Retired,1280.19,A-level,-9.0,0
+2465,10251,20,Female,2,Employed,3340.86,Degree,38.0,
+2466,10251,69,Female,3,Inactive,1307.66,A-level,-9.0,0
+2467,10251,21,Female,4,Self-employed,2071.49,Degree,31.0,1
+2468,10252,43,Female,3,Retired,513.29,A-level,-9.0,0
+2469,10253,62,Female,2,Student,574.52,Degree,-9.0,1
+2470,10253,80,M,4,Retired,2016.43,GCSE,-9.0,1
+2471,10254,71,Male,2,Employed,1950.44,GCSE,18.0,1
+2472,10254,26,Female,2,Employed,3971.04,Degree,25.0,1
+2473,10255,80,Female,3,Employed,3370.08,GCSE,19.0,0
+2474,10257,59,Male,2,Self-employed,3344.49,A-level,39.0,0
+2475,10257,29,Male,3,Self-employed,3922.49,Below GCSE,15.0,0
+2476,10259,46,female,1,Unemployed,1091.38,No qualification,-9.0,0
+2477,10259,75,Female,2,Employed,1261.7,Degree,25.0,0
+2478,10260,42,Male,4,Student,1006.26,Below GCSE,-9.0,0
+2479,10260,29,Male,1,Inactive,,GCSE,-9.0,0
+2480,10260,73,Male,3,Employed,2034.26,GCSE,55.0,1
+2481,10260,78,Female,3,Retired,883.98,A-level,-9.0,0
+2482,10260,79,Female,4,Retired,1368.34,A-level,-9.0,0
+2483,10262,78,female,3,Self-employed,1705.06,Degree,39.0,0
+2484,10262,72,Female,4,Employed,3101.54,No qualification,42.0,0
+2485,10262,46,Female,2,Student,839.9,GCSE,-9.0,1
+2486,10263,30,Male,2,Inactive,,A-level,-9.0,0
+2487,10263,56,M,5,Retired,1472.82,GCSE,-9.0,0
+2488,10263,31,Male,4,Inactive,730.81,Degree,-9.0,0
+2489,10263,47,Male,3,Inactive,810.37,Degree,-9.0,0
+2490,10263,59,female,3,Employed,4709.03,GCSE,56.0,0
+2491,10264,77,M,3,Retired,843.98,GCSE,-9.0,1
+2492,10266,36,Male,1,Self-employed,1123.76,Below GCSE,13.0,0
+2493,10267,33,Female,4,Inactive,1252.72,GCSE,-9.0,0
+2494,10268,64,Female,4,Employed,1233.55,GCSE,45.0,0
+2495,10268,18,Male,3,Employed,2815.6,Below GCSE,10.0,0
+2496,10269,53,Male,2,Inactive,333.3,Degree,-9.0,1
+2497,10269,64,Male,2,Employed,,GCSE,39.0,0
+2498,10269,52,Female,1,Student,,GCSE,-9.0,0
+2499,10269,42,Female,3,Employed,3294.08,Degree,33.0,0
+2500,10270,70,Female,3,Inactive,887.19,Degree,-9.0,0
+2501,10270,41,Male,2,Inactive,747.27,Degree,-9.0,0
+2502,10270,62,Female,3,Employed,1900.77,Degree,25.0,
+2503,10271,47,Female,5,Student,960.93,GCSE,-9.0,1
+2504,10271,19,Female,1,Employed,2955.71,Degree,51.0,0
+2505,10272,51,Male,3,Retired,1433.78,GCSE,-9.0,0
+2506,10272,21,Female,3,Retired,1457.47,Degree,-9.0,1
+2507,10272,76,male,2,Student,922.38,Degree,-9.0,0
+2508,10272,55,Male,3,Employed,2606.37,A-level,34.0,0
+2509,10273,41,Male,3,Employed,2067.95,Degree,25.0,0
+2510,10273,48,Male,2,Retired,1487.85,No qualification,-9.0,0
+2511,10274,57,Male,2,Unemployed,1303.75,A-level,-9.0,1
+2512,10274,34,Female,4,Self-employed,2881.72,Degree,22.0,0
+2513,10276,36,Male,2,Employed,3344.31,Degree,53.0,0
+2514,10278,44,Male,3,Employed,3772.77,A-level,39.0,0
+2515,10278,34,Female,3,Inactive,,GCSE,-9.0,0
+2516,10278,65,Male,4,Employed,,Below GCSE,53.0,0
+2517,10278,24,Male,3,Employed,3193.89,A-level,59.0,1
+2518,10279,70,Female,4,Inactive,1371.02,GCSE,-9.0,0
+2519,10279,39,Male,3,Employed,2409.22,A-level,35.0,0
+2520,10280,53,Male,2,Retired,815.19,Below GCSE,-9.0,1
